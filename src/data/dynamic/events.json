@@ -1,23 +1,6 @@
 {
-  "lastUpdated": "2026-10-30",
+  "lastUpdated": "2026-10-31",
   "events": [
-    {
-      "id": "evt-20260731-4",
-      "title": "Spooky Safari at the Phoenix Zoo",
-      "startDate": "2026-10-28",
-      "endDate": "2026-10-30",
-      "time": "5:30 PM - 8:30 PM",
-      "venueName": "Phoenix Zoo",
-      "venueCity": "Phoenix",
-      "venueAddress": "455 N Galvin Parkway, Phoenix, AZ 85008",
-      "category": "Family",
-      "description": "The Phoenix Zoo Halloween event offers trick-or-treating stations, an hourly costume parade, animal encounters and Halloween themed crafts across three evenings. Tickets are 18 dollars per person and children age 2 and under are admitted free.",
-      "sourceUrl": "https://www.phoenixzoo.org/events/spooky-safari/",
-      "source": "manual",
-      "imageKeyword": "zoo halloween trick or treat",
-      "lat": null,
-      "lng": null
-    },
     {
       "id": "evt-20261026-1",
       "title": "Arizona State Fair",
@@ -53,23 +36,6 @@
       "lng": null
     },
     {
-      "id": "evt-20260914-7",
-      "title": "Phoenix Suns vs. Denver Nuggets (NBA Cup)",
-      "startDate": "2026-10-30",
-      "endDate": null,
-      "time": "7:00 PM",
-      "venueName": "Mortgage Matchup Center",
-      "venueCity": "Phoenix",
-      "venueAddress": "201 E Jefferson St, Phoenix, AZ 85004",
-      "category": "Sports",
-      "description": "The Phoenix Suns host the Denver Nuggets in an NBA Cup group play game at Mortgage Matchup Center. The Friday night Western Conference matchup is one of the Suns' group stage games in the in season tournament.",
-      "sourceUrl": "https://www.si.com/nba/suns/onsi/phoenix-suns-reveal-entire-2026-27-regular-season-schedule",
-      "source": "manual",
-      "imageKeyword": "basketball arena game night",
-      "lat": null,
-      "lng": null
-    },
-    {
       "id": "evt-20261022-1",
       "title": "Boo Arizona",
       "startDate": "2026-10-30",
@@ -83,23 +49,6 @@
       "sourceUrl": "https://arizona.boo-halloween.com",
       "source": "manual",
       "imageKeyword": "halloween dance music festival night",
-      "lat": null,
-      "lng": null
-    },
-    {
-      "id": "evt-20261026-2",
-      "title": "Wicked Ball Halloween Party",
-      "startDate": "2026-10-30",
-      "endDate": null,
-      "time": "9:00 PM",
-      "venueName": "Talking Stick Resort",
-      "venueCity": "Scottsdale",
-      "venueAddress": "9800 E Talking Stick Way, Scottsdale, AZ 85256",
-      "category": "Festival",
-      "description": "Talking Stick Resort hosts its annual Halloween costume party, with multiple themed rooms, music and drink service. Tickets are available through Ticketmaster.",
-      "sourceUrl": "https://www.talkingstickresort.com/entertainment/",
-      "source": "manual",
-      "imageKeyword": "halloween costume party nightclub",
       "lat": null,
       "lng": null
     },
@@ -2854,6 +2803,23 @@
       "sourceUrl": "https://www.tucsonmariachi.org/",
       "source": "manual",
       "imageKeyword": "mariachi performance stage",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "evt-20261031-1",
+      "title": "Brand New",
+      "startDate": "2026-11-14",
+      "endDate": null,
+      "time": "Check venue for showtime",
+      "venueName": "Arizona Financial Theatre",
+      "venueCity": "Phoenix",
+      "venueAddress": "400 W Washington St, Phoenix, AZ 85003",
+      "category": "Music",
+      "description": "Rock band Brand New plays Arizona Financial Theatre in downtown Phoenix, part of a run of 2026 tour dates.",
+      "sourceUrl": "https://www.arizonafinancialtheatre.com/",
+      "source": "manual",
+      "imageKeyword": "rock concert theater stage",
       "lat": null,
       "lng": null
     }
