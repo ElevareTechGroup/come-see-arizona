@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-02",
+  "lastUpdated": "2026-11-03",
   "events": [
     {
       "id": "tucson-modernism-week-2026-11-03",
@@ -1379,23 +1379,6 @@
       "lng": null
     },
     {
-      "id": "evt-20260926-glendale-glitters",
-      "title": "Glendale Glitters Holiday Lights",
-      "startDate": "2026-11-27",
-      "endDate": "2027-01-01",
-      "time": "Kickoff Nov 27-28, 5-10 PM; lights nightly 5-10 PM through Jan 1",
-      "venueName": "Historic Downtown Glendale / Murphy Park",
-      "venueCity": "Glendale",
-      "venueAddress": "5850 W Glendale Ave, Glendale, AZ 85301",
-      "category": "Holiday",
-      "description": "Glendale Glitters lights up Murphy Park and the surrounding historic district with a large scale holiday light display each winter. The 2026 kickoff weekend includes an official tree lighting ceremony, live entertainment, and holiday shopping among the district's antique shops, with the lights remaining on through New Year's Day.",
-      "sourceUrl": "https://visitdowntownglendale.com/",
-      "source": "manual",
-      "imageKeyword": "downtown holiday lights",
-      "lat": null,
-      "lng": null
-    },
-    {
       "id": "evt-20261011-1",
       "title": "Las Noches de las Luminarias",
       "startDate": "2026-11-27",
@@ -2769,6 +2752,40 @@
       "sourceUrl": "https://www.tucsonmariachi.org/",
       "source": "manual",
       "imageKeyword": "mariachi performance stage",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "evt-20261103-1",
+      "title": "10th Arizona Bao and Dumpling Festival",
+      "startDate": "2026-11-14",
+      "endDate": "2026-11-15",
+      "time": "11:00 AM - 5:00 PM",
+      "venueName": "Centennial Plaza Park",
+      "venueCity": "Peoria",
+      "venueAddress": "8401 W Monroe St, Peoria, AZ 85345",
+      "category": "Food and Drink",
+      "description": "Phoenix Food Festivals brings its 10th Arizona Bao and Dumpling Festival to Centennial Plaza Park behind Peoria City Hall. The free, two day outdoor event features bao, dumplings and noodle vendors alongside live entertainment and a kids area.",
+      "sourceUrl": "https://www.eventbrite.com/e/1999142346574",
+      "source": "manual",
+      "imageKeyword": "dumpling street food festival",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "evt-20261103-2",
+      "title": "Fountain Hills Thanksgiving Day Parade",
+      "startDate": "2026-11-26",
+      "endDate": null,
+      "time": "9:30 AM - 10:45 AM",
+      "venueName": "Avenue of the Fountains",
+      "venueCity": "Fountain Hills",
+      "venueAddress": "Avenue of the Fountains, Fountain Hills, AZ 85268",
+      "category": "Community",
+      "description": "The Fountain Hills Chamber of Commerce hosts the 42nd annual Thanksgiving Day Parade along the Avenue of the Fountains, themed Happy Birthday America for 2026. The free parade follows the morning Turkey Trot 5K through Fountain Park.",
+      "sourceUrl": "https://cm.fhchamber.com/events/details/thanksgiving-day-parade-2026-happy-birthday-america-54146",
+      "source": "manual",
+      "imageKeyword": "thanksgiving parade small town",
       "lat": null,
       "lng": null
     }
