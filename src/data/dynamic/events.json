@@ -1,23 +1,6 @@
 {
-  "lastUpdated": "2026-11-09",
+  "lastUpdated": "2026-11-10",
   "events": [
-    {
-      "id": "phoenix-suns-vs-spurs-2026-11-09",
-      "title": "Phoenix Suns vs. San Antonio Spurs",
-      "startDate": "2026-11-09",
-      "endDate": null,
-      "time": "7:00 PM",
-      "venueName": "Footprint Center",
-      "venueCity": "Phoenix",
-      "venueAddress": "201 E Jefferson St, Phoenix, AZ 85004",
-      "category": "Sports",
-      "description": "The Phoenix Suns face the San Antonio Spurs at Footprint Center. Tip-off is scheduled for 7:00 PM.",
-      "sourceUrl": "https://www.nba.com/suns/schedule",
-      "source": "manual",
-      "imageKeyword": "NBA basketball arena game",
-      "lat": null,
-      "lng": null
-    },
     {
       "id": "phoenix-suns-vs-clippers-2026-11-10",
       "title": "Phoenix Suns vs. LA Clippers",
@@ -716,23 +699,6 @@
       "lng": null
     },
     {
-      "id": "evt-20261104-2",
-      "title": "El Tour de Tucson",
-      "startDate": "2026-11-21",
-      "endDate": null,
-      "time": "7:00 AM",
-      "venueName": "Tucson Convention Center",
-      "venueCity": "Tucson",
-      "venueAddress": "260 S Church Ave, Tucson, AZ 85701",
-      "category": "Sports",
-      "description": "The 43rd edition of El Tour de Tucson brings cyclists of all levels to the streets of Tucson for century, half-century and shorter ride distances. The Platinum and Elite 102-mile rides start at 7:00 AM near the Tucson Convention Center, with a multi-day expo and fiesta preceding race day.",
-      "sourceUrl": "https://eltourdetucson.org/schedule/",
-      "source": "manual",
-      "imageKeyword": "cycling road race city street",
-      "lat": null,
-      "lng": null
-    },
-    {
       "id": "evt-20261002-4",
       "title": "Steep Canyon Rangers",
       "startDate": "2026-11-22",
@@ -1273,23 +1239,6 @@
       "sourceUrl": "https://www.phoenixsymphony.org/shows/holiday-pops-spectacular-2026/",
       "source": "manual",
       "imageKeyword": "orchestra holiday concert symphony hall",
-      "lat": null,
-      "lng": null
-    },
-    {
-      "id": "aps-electric-light-parade-2026-12-05",
-      "title": "APS Electric Light Parade",
-      "startDate": "2026-12-05",
-      "endDate": null,
-      "time": "7:00 PM",
-      "venueName": "Central Avenue, Downtown Phoenix",
-      "venueCity": "Phoenix",
-      "venueAddress": "Central Ave & Montebello Ave to 7th St & Indian School Rd, Phoenix, AZ",
-      "category": "Community",
-      "description": "The annual APS Electric Light Parade sends illuminated floats down Central Avenue in Phoenix, starting at Montebello Avenue and ending near Indian School Road. Street closures run along Central Avenue, 7th Street and Camelback Road from 5 to 11 PM for the evening procession.",
-      "sourceUrl": "https://www.phoenix.gov/administration/departments/parks/classes-programs/featured-events/aps-electric-light-parade.html",
-      "source": "manual",
-      "imageKeyword": "holiday light parade night downtown",
       "lat": null,
       "lng": null
     },
@@ -2514,6 +2463,40 @@
       "sourceUrl": "https://www.phoenixsymphony.org/shows/holiday-baroque/",
       "source": "manual",
       "imageKeyword": "orchestra holiday concert",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "evt-20261110-1",
+      "title": "Canal Convergence: Western Nature",
+      "startDate": "2026-11-10",
+      "endDate": "2026-11-15",
+      "time": "6:00 PM to 9:00 PM (10:00 PM on select nights)",
+      "venueName": "Scottsdale Waterfront",
+      "venueCity": "Scottsdale",
+      "venueAddress": "7135 E Camelback Rd, Scottsdale, AZ 85251",
+      "category": "Arts",
+      "description": "Scottsdale Arts closes out the 15th edition of Canal Convergence, themed Western Nature, with free evening light installations and public art along the Arizona Canal through Sunday, November 15. The festival marks Scottsdale's 75th anniversary and spans the Scottsdale Waterfront between Scottsdale Road and Goldwater Boulevard.",
+      "sourceUrl": "https://scottsdalearts.org/explore-scottsdale-arts/canal-convergence/about-canal-convergence/",
+      "source": "manual",
+      "imageKeyword": "illuminated public art canal night",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "evt-20261110-2",
+      "title": "Arizona National Livestock Show",
+      "startDate": "2026-12-27",
+      "endDate": "2026-12-31",
+      "time": "All day",
+      "venueName": "Arizona State Fairgrounds",
+      "venueCity": "Phoenix",
+      "venueAddress": "1826 W McDowell Rd, Phoenix, AZ 85007",
+      "category": "Community",
+      "description": "The Arizona National Livestock Show brings cattle, sheep, goat and swine exhibitors from across the country to the Arizona State Fairgrounds for five days of judging and competition. The show, an annual Phoenix tradition since 1948, is free to attend.",
+      "sourceUrl": "https://aznational.org",
+      "source": "manual",
+      "imageKeyword": "livestock show fairgrounds cattle",
       "lat": null,
       "lng": null
     }
