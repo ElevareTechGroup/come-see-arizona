@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12",
+  "lastUpdated": "2026-11-13",
   "events": [
     {
       "id": "charles-schwab-cup-championship-2026-11-12",
@@ -15,23 +15,6 @@
       "sourceUrl": "https://charlesschwabcupchampionship.com/",
       "source": "manual",
       "imageKeyword": "golf tournament",
-      "lat": null,
-      "lng": null
-    },
-    {
-      "id": "phoenix-suns-vs-hornets-2026-11-12",
-      "title": "Phoenix Suns vs. Charlotte Hornets",
-      "startDate": "2026-11-12",
-      "endDate": null,
-      "time": "7:00 PM",
-      "venueName": "Footprint Center",
-      "venueCity": "Phoenix",
-      "venueAddress": "201 E Jefferson St, Phoenix, AZ 85004",
-      "category": "Sports",
-      "description": "The Phoenix Suns host the Charlotte Hornets at Footprint Center. Tip-off is scheduled for 7:00 PM.",
-      "sourceUrl": "https://www.nba.com/suns/schedule",
-      "source": "manual",
-      "imageKeyword": "NBA basketball arena game",
       "lat": null,
       "lng": null
     },
@@ -1124,6 +1107,23 @@
       "lng": null
     },
     {
+      "id": "evt-20261113-2",
+      "title": "A Night to Toast",
+      "startDate": "2026-12-02",
+      "endDate": null,
+      "time": "6:00 PM",
+      "venueName": "Hotel Valley Ho",
+      "venueCity": "Scottsdale",
+      "venueAddress": "6850 E. Main St., Scottsdale, AZ 85251",
+      "category": "Food and Drink",
+      "description": "Hotel Valley Ho kicks off the holiday season with a three course dinner paired with Perrier-Jouet Champagnes. The evening opens with a reception in the Citrus Grove before guests move to the Sands venue for dinner.",
+      "sourceUrl": "https://www.experiencescottsdale.com/event/a-night-to-toast/374899/",
+      "source": "manual",
+      "imageKeyword": "champagne dinner holiday",
+      "lat": null,
+      "lng": null
+    },
+    {
       "id": "evt-20261029-1",
       "title": "RUSH: Fifty Something",
       "startDate": "2026-12-03",
@@ -1753,6 +1753,23 @@
       "lng": null
     },
     {
+      "id": "evt-20261113-3",
+      "title": "Family Holiday Festival at The Scottsdale Resort & Spa",
+      "startDate": "2026-12-12",
+      "endDate": null,
+      "time": "2:00 PM to 8:00 PM",
+      "venueName": "The Scottsdale Resort & Spa, Curio Collection by Hilton",
+      "venueCity": "Scottsdale",
+      "venueAddress": "7700 E. McCormick Pkwy., Scottsdale, AZ 85258",
+      "category": "Family",
+      "description": "A free, family friendly holiday festival on the resort’s Community Lawn with live holiday music, kids crafts, face painting, cookie decorating, a Santa appearance, and local vendors. The evening closes with an outdoor screening of The Grinch.",
+      "sourceUrl": "https://www.experiencescottsdale.com/event/family-holiday-festival-at-the-scottsdale-resort-%26-spa/374900/",
+      "source": "manual",
+      "imageKeyword": "family holiday festival outdoor",
+      "lat": null,
+      "lng": null
+    },
+    {
       "id": "evt-20261106-2",
       "title": "Phoenix Suns vs. Atlanta Hawks",
       "startDate": "2026-12-14",
@@ -1885,6 +1902,23 @@
       "sourceUrl": "https://www.livenation.com/event/16_ZkfdaUZAuuAFa/pentatonix-christmas-in-the-city-tour",
       "source": "manual",
       "imageKeyword": "holiday choir concert arena",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "evt-20261113-4",
+      "title": "Holiday Sweet Stroll at Tlaquepaque",
+      "startDate": "2026-12-19",
+      "endDate": null,
+      "time": "3:00 PM to 7:00 PM",
+      "venueName": "Tlaquepaque Arts & Shopping Village",
+      "venueCity": "Sedona",
+      "venueAddress": "336 SR 179, Sedona, AZ 86336",
+      "category": "Festival",
+      "description": "Tlaquepaque’s courtyards fill with holiday shopping, sweet treats, and seasonal strolling entertainment. Admission is free and the village’s shops and galleries stay open late for the evening.",
+      "sourceUrl": "https://visitsedona.com/events-calendar/sweet-stroll-at-tlaquepaque",
+      "source": "manual",
+      "imageKeyword": "holiday market courtyard string lights",
       "lat": null,
       "lng": null
     },
