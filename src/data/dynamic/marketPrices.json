@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-09",
+  "lastUpdated": "2026-11-16",
   "method": "Perplexity Sonar web research with citation validation (scripts/market-refresh.ts). Zillow excluded by policy.",
   "sourceNames": [
     "redfin.com",
@@ -10,28 +10,28 @@
   ],
   "counties": {
     "maricopa": {
-      "medianHomePrice": 473939,
+      "medianHomePrice": 499990,
       "pricePerSqFt": 251,
-      "avgDaysOnMarket": 67,
+      "avgDaysOnMarket": 71,
       "inventoryLevel": "low",
-      "marketTrend": "softening",
-      "yearOverYearChange": "-2.7%",
+      "marketTrend": "stable",
+      "yearOverYearChange": "0%",
       "asOf": "2026-10",
       "confidence": "medium",
       "citations": [
+        "https://www.redfin.com/county/220/AZ/Maricopa-County/page-59",
+        "https://www.redfin.com/county/220/AZ/Maricopa-County/page-58",
+        "https://phoenixagentmagazine.com/2026/11/11/maricopa-county-report-oct-26/",
         "https://marketreports.longrealty.com/r?boundary=5a747f1d8137bb186eee392d&agent=448",
-        "https://kenwoodmortgage.com/insights/arizona-real-estate-market-october-2026/",
-        "https://arizonahomesandcondos.com/arizona-market-reports/",
-        "https://www.maricopaskyhomes.com/blog/maricopa-county-home-sales-october-2026",
-        "https://inmaricopa.com/maricopas-housing-market-has-a-lot-of-doors-open/"
+        "https://kenwoodmortgage.com/insights/arizona-real-estate-market-october-2026/"
       ],
-      "narrative": "Maricopa County’s median sale price was $473,939 in October 2026, down 2.7% from a year earlier and essentially flat from the prior month.[3] Inventory stood at 15,780 homes, with a 3.4-month supply and a 67-day median time to sell.[3] Buyer and seller activity both appear subdued: Realtor.com reported that Phoenix-area new listings fell at their fastest rate in three years, while buyers and sellers broadly paused.[9] Population growth and migration continue supporting demand, while Phoenix’s construction pipeline has contracted; the metro added 59,065 residents in the year to July 2025, and multifamily developers added 14,206 units against 23,329 absorbed over the following 12 months.[6]",
+      "narrative": "Maricopa County’s October 2026 median single-family sale price was $499,990, essentially unchanged from a year earlier.[2][8] Inventory increased to 16,708 homes, up 11.6% year over year, while supply reached 4.3 months.[2][8] Buyer activity weakened: closed sales fell 18.2% to 3,214 and pending sales dropped 46.2% to 2,147, giving buyers more negotiating leverage while sellers faced slower absorption.[2] Realtor.com data for September showed 15,780 homes for sale in the Phoenix-Maricopa market, up by 1,282 year over year, with a $499,000 median asking price, down 4.95%.[5]",
       "narrativeCitations": [
-        "https://inmaricopa.com/maricopas-housing-market-has-a-lot-of-doors-open/",
+        "https://www.redfin.com/county/220/AZ/Maricopa-County/views/page-91",
+        "https://phoenixagentmagazine.com/2026/11/11/maricopa-county-report-oct-26/",
         "https://marketreports.longrealty.com/r?boundary=5a747f1d8137bb186eee392d&agent=448",
-        "https://arizonahomesandcondos.com/arizona-market-reports/",
-        "https://www.redfin.com/county/220/AZ/Maricopa-County/page-56",
-        "https://arizonahomesandcondos.com/greater-phoenix-condo-market-report/"
+        "https://www.redfin.com/county/220/AZ/Maricopa-County/new-listings/page-46",
+        "https://kenwoodmortgage.com/insights/arizona-real-estate-market-october-2026/"
       ],
       "history": [
         {
@@ -148,28 +148,28 @@
       ]
     },
     "pima": {
-      "medianHomePrice": 369174,
+      "medianHomePrice": 358460,
       "pricePerSqFt": 218,
-      "avgDaysOnMarket": 69,
+      "avgDaysOnMarket": 36,
       "inventoryLevel": "balanced",
-      "marketTrend": "softening",
-      "yearOverYearChange": "+2.5%",
-      "asOf": "2026-09",
+      "marketTrend": "stable",
+      "yearOverYearChange": "0.0%",
+      "asOf": "2026-10",
       "confidence": "medium",
       "citations": [
+        "https://www.redfin.com/AZ/Pima/290-W-1350-S-85543/home/118038341?msockid=3fb0067fd73261520dc11e6ed6006062",
+        "https://www.kyleberglund.com/community/blog/whats-happening-tucson-real-estate-october-2026",
         "https://kenwoodmortgage.com/insights/arizona-real-estate-market-october-2026/",
-        "https://arizonahomesandcondos.com/arizona-market-reports/",
-        "https://axiom-properties.com/2026/10/19/tucson-home-prices-fall-2026/",
-        "https://www.kyleberglund.com/community/blog/tucson-85756-zip-south-of-airport-newer-homes-high-growth-area-october-2026",
-        "https://www.movoto.com/pima-az/land/"
+        "https://www.redfin.com/AZ/Tucson/7035-N-Mission-Hill-Ln-85718/home/50387425",
+        "https://www.redfin.com/AZ/Tucson/3338-E-Pima-St-85716/home/50444367"
       ],
-      "narrative": "Pima County’s median asking price was $372,500 in September 2026, down 3.25% year over year, while the median sale price was reported at $369,174, up 2.5% year over year.[1][2] Inventory stood at 3,851 homes for sale, with a 58-day median time on market in the Realtor.com-based county figures; another market report recorded 69 days and 3.8 months of supply.[1][2] The 0.3406 pending ratio and longer marketing times indicate more negotiating room for buyers than in a tightly constrained seller’s market.[1] A county economic plan cited more than $3.6 billion in prior investment, including 180 direct jobs and about 3,000 construction jobs, supporting construction and employment as notable local drivers.[7]",
+      "narrative": "Pima County’s October 2026 median sale price was $358,460, essentially flat year over year from $358,940.[2] Inventory was elevated, with 4,645 homes on the market and more than five months of supply, while 888 closings were reported, about 17% fewer than in October 2025.[2] The combination of slower sales and expanded supply indicates greater negotiating leverage for buyers than in a tight seller’s market.[2] Mortgage rates remained a constraint, although the 30-year rate had eased to 7.11% by November 12 after reaching 7.40% earlier in October.[2]",
       "narrativeCitations": [
+        "https://www.redfin.com/AZ/Pima/290-W-1350-S-85543/home/118038341?msockid=3fb0067fd73261520dc11e6ed6006062",
+        "https://www.kyleberglund.com/community/blog/whats-happening-tucson-real-estate-october-2026",
         "https://kenwoodmortgage.com/insights/arizona-real-estate-market-october-2026/",
-        "https://arizonahomesandcondos.com/arizona-market-reports/",
-        "https://www.redfin.com/AZ/Coolidge/338-Pima-Springs-Trl-85128/home/206714351",
-        "https://www.realtor.com/research/october-2026-data/",
-        "https://tucsondailybrief.com/what-sold/2026-10-11.html"
+        "https://www.redfin.com/AZ/Tucson/7942-E-Timrod-Pl-85710/home/50488406",
+        "https://www.redfin.com/AZ/Tucson/7035-N-Mission-Hill-Ln-85718/home/50387425"
       ],
       "history": [
         {
@@ -187,41 +187,45 @@
         {
           "month": "2026-09",
           "medianHomePrice": 371500
+        },
+        {
+          "month": "2026-10",
+          "medianHomePrice": 358460
         }
       ]
     }
   },
   "cities": {
     "phoenix": {
-      "medianHomePrice": 470000,
-      "pricePerSqFt": null,
-      "avgDaysOnMarket": 68,
+      "medianHomePrice": 440050,
+      "pricePerSqFt": 249,
+      "avgDaysOnMarket": 86,
       "marketType": "buyer",
-      "yearOverYearChange": null,
+      "yearOverYearChange": "-2.2%",
       "asOf": "2026-10",
       "confidence": "medium",
       "citations": [
+        "https://www.realtor.com/news/local/phoenix-az/real-estate-market-phoenix-az-october-2026/",
         "https://www.realtor.com/research/october-2026-data/",
+        "https://www.redfin.com/news/home-prices-decline-october-2026/",
         "https://mediaroom.realtor.com/2026-11-04-Active-Inventory-Grows-as-Sellers-Keep-Homes-on-the-Market-Realtor-com-R-October-Housing-Report",
-        "https://www.redfin.com/news/press-releases/redfin-reports-homebuyers-get-some-relief-as-prices-decline-for-third-straight-week-monthly-payments-dip/",
-        "https://azbigmedia.com/real-estate/metro-phoenix-housing-market-shifts-deeper-into-buyers-territory/",
-        "https://desertbreezepropertygroup.com/phoenix-housing-market.html"
+        "https://www.phoenixhomes.com/october-2026-phoenix-housing-market-update-data-trends/"
       ]
     },
     "scottsdale": {
-      "medianHomePrice": 1200000,
-      "pricePerSqFt": 479,
-      "avgDaysOnMarket": 83,
-      "marketType": "seller",
-      "yearOverYearChange": "+4.3%",
+      "medianHomePrice": 1225000,
+      "pricePerSqFt": null,
+      "avgDaysOnMarket": 90,
+      "marketType": "buyer",
+      "yearOverYearChange": "+5.6%",
       "asOf": "2026-10",
       "confidence": "medium",
       "citations": [
-        "https://jenkeenehomes.com/blog/scottsdale-housing-market",
-        "https://www.scottsdale.org/business/sellers-edge-slips-in-scottsdale-home-market/article_60fe9c5f-80b9-49b2-bfb3-7d15c9c8f80a.html",
-        "https://azandrea.com/scottsdale-housing-market-october-2026/",
-        "https://www.realtor.com/research/october-2026-data/",
-        "https://www.realtor.com/realestateandhomes-search/Silverleaf_Scottsdale_AZ/type-single-family-home/sby-2"
+        "https://www.redfin.com/AZ/Scottsdale/13226-N-101st-St-85260/home/27852654",
+        "https://www.redfin.com/county/220/AZ/Maricopa-County/page-59",
+        "https://celinaacosta.com/blog/scottsdale-is-the-valleys-strongest-sellers-market-which-scottsdale-do-the-numbers-mean",
+        "https://azbrian.com/greater-phoenix/scottsdale/zip-code-85253/home-market-report",
+        "https://www.wandpartners.co/neighborhood-city/11208/Scottsdale"
       ]
     },
     "mesa": {
@@ -241,51 +245,51 @@
       ]
     },
     "chandler": {
-      "medianHomePrice": 513000,
-      "pricePerSqFt": null,
-      "avgDaysOnMarket": 59,
-      "marketType": "buyer",
-      "yearOverYearChange": null,
-      "asOf": "2026-10",
+      "medianHomePrice": 532500,
+      "pricePerSqFt": 296,
+      "avgDaysOnMarket": 39,
+      "marketType": "balanced",
+      "yearOverYearChange": "-3.2%",
+      "asOf": "2026-11",
       "confidence": "medium",
       "citations": [
-        "https://www.realtor.com/research/October-2026-data/",
-        "https://www.realtor.com/realestateandhomes-search/Chandler_AZ/price-na-550000",
-        "https://www.realtor.com/realestateandhomes-detail/1651-W-Springfield-Way_Chandler_AZ_85286_M11314-62176",
-        "https://www.realtor.com/realestateandhomes-detail/505-W-El-Prado-Rd_Chandler_AZ_85225_M11745-87095",
-        "https://azbigmedia.com/real-estate/metro-phoenix-housing-market-shifts-deeper-into-buyers-territory/"
+        "https://www.redfin.com/AZ/Chandler/500-N-Gila-Springs-Blvd-85226/unit-126/home/206991497",
+        "https://www.redfin.com/AZ/Chandler/3016-E-Palm-Beach-Dr-85249/home/28021622",
+        "https://www.redfin.com/AZ/Chandler/6884-S-Mingus-Dr-85249/home/28338621",
+        "https://azbrian.com/greater-phoenix/chandler/zip-code-85286/home-market-report",
+        "https://www.theholmgroupaz.com/chandler-real-estate-market-update"
       ]
     },
     "gilbert": {
-      "medianHomePrice": 585360,
-      "pricePerSqFt": 279,
-      "avgDaysOnMarket": 50,
+      "medianHomePrice": 591755,
+      "pricePerSqFt": 277,
+      "avgDaysOnMarket": null,
       "marketType": "balanced",
-      "yearOverYearChange": "+2.6%",
-      "asOf": "2026-10",
+      "yearOverYearChange": "+3.8%",
+      "asOf": "2026-11",
       "confidence": "medium",
       "citations": [
-        "https://www.realtor.com/realestateandhomes-detail/1457-N-Birch-St_Gilbert_AZ_85233_M24723-84914?property_id=2472384914",
-        "https://azbigmedia.com/real-estate/metro-phoenix-housing-market-shifts-deeper-into-buyers-territory/",
-        "https://www.redfin.com/city/6998/AZ/Gilbert/amenity/1+bed",
-        "https://www.redfin.com/AZ/Gilbert/1518-E-Tonto-Dr-85298/home/185702070",
-        "https://azandrea.com/gilbert-housing-market-october-2026/"
+        "https://www.realtor.com/research/october-2026-data/",
+        "https://www.theholmgroupaz.com/gilbert-real-estate-market-update",
+        "https://www.redfin.com/AZ/Gilbert/1149-S-Annie-Ln-85296/home/28399425",
+        "https://www.redfin.com/AZ/Gilbert/2396-E-Everglade-Ln-85298/home/144015542",
+        "https://www.redfin.com/AZ/Gilbert/4325-E-Bethena-St-85295/unit-20701-N/home/206886475"
       ]
     },
     "tempe": {
       "medianHomePrice": 474274,
-      "pricePerSqFt": null,
+      "pricePerSqFt": 278,
       "avgDaysOnMarket": 54,
       "marketType": "buyer",
       "yearOverYearChange": "+0.9%",
-      "asOf": "2026-10",
+      "asOf": "2026-09",
       "confidence": "medium",
       "citations": [
-        "https://www.sweephoenixazhomes.com/market-trends/2026-september-tempe-az-housing-market-update/",
-        "https://www.redfin.com/AZ/Tempe/818-E-Drake-Dr-85283/home/27784345",
-        "https://www.movoto.com/tempe-az/kiwanis-the-lakes/market-trends/",
-        "https://azandrea.com/tempe-housing-market-october-2026/",
-        "https://ryanharju.com/market/tempe/"
+        "https://azbrian.com/greater-phoenix/tempe/zip-code-85284",
+        "https://www.truppraisal.com/home-values/tempe-az.html",
+        "https://www.viethomesaz.com/marketreport/?city=Tempe&type=res&type=con&list_price_min=50000&list_price_max=all&sold_within=6",
+        "https://www.trulia.com/home/60-e-calle-de-arcos-tempe-az-85284-8152917",
+        "https://www.trulia.com/home/1025-w-cornell-dr-tempe-az-85283-8138712"
       ]
     },
     "glendale": {
@@ -337,19 +341,19 @@
       ]
     },
     "goodyear": {
-      "medianHomePrice": 472970,
-      "pricePerSqFt": null,
-      "avgDaysOnMarket": 75,
-      "marketType": "balanced",
-      "yearOverYearChange": "+0.6%",
+      "medianHomePrice": 444000,
+      "pricePerSqFt": 223,
+      "avgDaysOnMarket": 70,
+      "marketType": "buyer",
+      "yearOverYearChange": null,
       "asOf": "2026-10",
       "confidence": "medium",
       "citations": [
-        "https://www.redfin.com/city/14240/AZ/Phoenix/page-28",
-        "https://arizonahomesandcondos.com/arizona-market-reports/",
-        "https://www.realtor.com/research/eekly-housing-trends-view-data-week-october-17-2026/",
-        "https://www.redfin.com/city/18267/AZ/Surprise/page-33",
-        "https://www.redfin.com/AZ/Avondale/841-E-Agua-Fria-Ln-85323/home/206724564"
+        "https://www.thewestvalleyhometeam.com/wildflower-ranch-goodyear-az-real-estate-market-report/",
+        "https://www.yourvalley.net/stories/west-valley-home-sales-dip-in-october,740631",
+        "https://www.trulia.com/home/18082-w-college-dr-goodyear-az-85395-2072934730",
+        "https://www.movoto.com/goodyear-az/11006-s-175th-ln-goodyear-az-85338/pid_qi1s5uzfkqab/",
+        "https://www.trulia.com/home/2749-s-156th-ave-goodyear-az-85338-8290928"
       ]
     },
     "avondale": {
@@ -385,67 +389,67 @@
       ]
     },
     "queen-creek": {
-      "medianHomePrice": 691747,
+      "medianHomePrice": 667493,
       "pricePerSqFt": null,
-      "avgDaysOnMarket": 96,
+      "avgDaysOnMarket": 94,
       "marketType": "buyer",
-      "yearOverYearChange": "+10.7%",
-      "asOf": "2026-09",
+      "yearOverYearChange": "+2.8%",
+      "asOf": "2026-10",
       "confidence": "medium",
       "citations": [
-        "https://azandrea.com/queen-creek-housing-market-october-2026/",
-        "https://queencreek.city/article/queen-creek-news-september-housing-sales-in-queen-creek-drop-prices-increase-732339",
-        "https://azbrian.com/greater-phoenix/queen-creek/harvest",
-        "https://www.redfin.com/AZ/Queen-Creek/24568-S-204th-Way-85142/home/173740451",
-        "https://www.yourvalley.net/queen-creek-independent/stories/september-housing-sales-in-queen-creek-drop-prices-increase,732339"
+        "https://www.redfin.com/AZ/Queen-Creek/23671-S-219th-Ct-85142/home/27505564",
+        "https://www.redfin.com/AZ/Queen-Creek/10350-E-Shallow-Canyon-Rd-85143/home/162401918",
+        "https://www.yourvalley.net/queen-creek-independent/stories/october-rough-month-for-home-sales-in-queen-creek,740594",
+        "https://www.redfin.com/zipcode/85028/page-7",
+        "https://www.redfin.com/AZ/Queen-Creek/1335-W-Via-del-Oro-85140/home/173533738"
       ]
     },
     "paradise-valley": {
-      "medianHomePrice": 3100000,
-      "pricePerSqFt": 676,
-      "avgDaysOnMarket": 101,
+      "medianHomePrice": 3800000,
+      "pricePerSqFt": 851,
+      "avgDaysOnMarket": 63,
       "marketType": "buyer",
-      "yearOverYearChange": "+10.3%",
-      "asOf": "2026-09",
+      "yearOverYearChange": "+12.5%",
+      "asOf": "2026-11",
       "confidence": "medium",
       "citations": [
-        "https://williamsluxuryhomes.com/paradise-valley-market-update-sept-2026/",
-        "https://themitchellgroupaz.com/blog/the-paradise-valley-listings-that-sit-at-121-days-arent-the-ones-youd-guess",
-        "https://thecalamiagroup.com/blog/paradise-valley-luxury-what-sets-it-apart-in-85253",
-        "https://thecalamiagroup.com/blog/is-paradise-valley-a-good-place-to-buy-in-2026-who-it-fits-and-who-it-doesn-t",
-        "https://rjhhomesteam.com/what-800k-gets-you-phoenix-metro/"
+        "https://www.redfin.com/AZ/Paradise-Valley/Unknown-85253/home/27963006",
+        "https://www.redfin.com/AZ/Paradise-Valley/7648-N-Shadow-Mountain-Rd-85253/home/27236283?msockid=0faeb7cd8033678734b3afdd8156664e",
+        "https://www.redfin.com/county/220/AZ/Maricopa-County/page-64",
+        "https://gluchgroup.com/neighborhoods/paradise-valley-home-prices/",
+        "https://www.redfin.com/AZ/Paradise-Valley/9825-N-51st-Pl-85253/home/27850167"
       ]
     },
     "fountain-hills": {
-      "medianHomePrice": 699667,
-      "pricePerSqFt": null,
-      "avgDaysOnMarket": 68,
-      "marketType": "balanced",
+      "medianHomePrice": 725000,
+      "pricePerSqFt": 341,
+      "avgDaysOnMarket": 56,
+      "marketType": "buyer",
       "yearOverYearChange": "+4.4%",
-      "asOf": "2026-10",
+      "asOf": "2026-11",
       "confidence": "medium",
       "citations": [
-        "https://www.movoto.com/fountain-hills-az/16144-n-mountain-pkwy-fountain-hills-az-85268/pid_e91ljrc6fhbb/",
-        "https://www.movoto.com/fountain-hills-az/15330-e-walnut-ln-fountain-hills-az-85268-471_4293375/",
-        "https://www.theholmgroupaz.com/fountain-hills-real-estate-resource-center/fountain-hills-real-estate-market",
-        "https://www.movoto.com/fountain-hills-az/16540-e-el-lago-blvd-27-fountain-hills-az-85268/pid_l1qpz01d8g/",
-        "https://www.longrealty.com/realestate/search/city/Fountain_Hills/az/property-type-VacantLand"
+        "https://www.redfin.com/AZ/Fountain-Hills/15925-E-Ocotillo-Dr-85268/home/26993794",
+        "https://www.redfin.com/AZ/Fountain-Hills/16657-E-Gunsight-Dr-85268/unit-221/home/28264502",
+        "https://www.redfin.com/AZ/Fountain-Hills/15067-N-Escondido-Dr-85268/unit-A/home/206919861",
+        "https://www.redfin.com/AZ/Fountain-Hills/14262-N-Oakwood-Ln-85268/unit-166A/home/145871089",
+        "https://www.redfin.com/AZ/Fountain-Hills/9103-N-Fireridge-Trl-85268/home/26904084"
       ]
     },
     "cave-creek": {
-      "medianHomePrice": 925000,
-      "pricePerSqFt": 363,
-      "avgDaysOnMarket": 110,
-      "marketType": "buyer",
-      "yearOverYearChange": "-0.2%",
-      "asOf": "2026-10",
+      "medianHomePrice": 865000,
+      "pricePerSqFt": 357,
+      "avgDaysOnMarket": 58,
+      "marketType": "balanced",
+      "yearOverYearChange": "+21.6%",
+      "asOf": "2026-11",
       "confidence": "medium",
       "citations": [
+        "https://www.arizonaluxurypartners.com/blog/cave-creek-85331-home-sales-recap-october-2026",
         "https://www.homevaluepros.com/az/cave-creek/",
         "https://www.theholmgroupaz.com/cave-creek-real-estate-resource-center/cave-creek-real-estate-market",
-        "https://www.arizonaluxurypartners.com/blog/cave-creek-sellers-fall-2026",
-        "https://www.redfin.com/AZ/Phoenix/18026-N-Cave-Creek-Rd-85032/unit-66/home/206739767",
-        "https://arizonahomesandcondos.com/arizona-market-reports/"
+        "https://www.redfin.com/AZ/Cave-Creek/29606-N-Tatum-Blvd-85331/unit-277/home/28341479",
+        "https://www.redfin.com/AZ/Phoenix/10410-N-Cave-Creek-Rd-85020/unit-1070/home/28086942"
       ]
     },
     "carefree": {
@@ -465,19 +469,19 @@
       ]
     },
     "anthem": {
-      "medianHomePrice": 583722,
-      "pricePerSqFt": 277,
-      "avgDaysOnMarket": 80,
+      "medianHomePrice": 630000,
+      "pricePerSqFt": 271,
+      "avgDaysOnMarket": 87,
       "marketType": "balanced",
-      "yearOverYearChange": "-1.9%",
-      "asOf": "2026-10",
+      "yearOverYearChange": "+3%",
+      "asOf": "2026-11",
       "confidence": "medium",
       "citations": [
-        "https://www.realtor.com/realestateandhomes-search/Camelback-Country-Club-Estates_Paradise-Valley_AZ/with_hillmountain",
-        "https://arizonahomesandcondos.com/arizona-market-reports/",
-        "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/",
-        "https://www.previewarizonahomes.com/market-data",
-        "https://www.homes.com/phoenix-az/anthem-neighborhood/"
+        "https://www.divinehomegrp.com/listings/city/Anthem/home-values/",
+        "https://www.redfin.com/AZ/Anthem/42424-N-Gavilan-Peak-Pkwy-85086/unit-4203/home/28413959",
+        "https://www.homes.com/phoenix-az/anthem-neighborhood/newest/?msockid=0d374fb0ffd86db1216557a0fe556cdc",
+        "https://www.movoto.com/anthem-az/42105-n-golf-crest-rd-anthem-az-85086-471_5246902/",
+        "https://www.redfin.com/AZ/Anthem/2233-W-Muirfield-Dr-85086/home/28146737"
       ]
     },
     "litchfield-park": {
@@ -529,19 +533,19 @@
       ]
     },
     "youngtown": {
-      "medianHomePrice": 375233,
-      "pricePerSqFt": null,
-      "avgDaysOnMarket": 180,
+      "medianHomePrice": 333085,
+      "pricePerSqFt": 236,
+      "avgDaysOnMarket": 78,
       "marketType": "balanced",
-      "yearOverYearChange": null,
-      "asOf": "2025-12",
+      "yearOverYearChange": "-13.4%",
+      "asOf": "2026-05",
       "confidence": "medium",
       "citations": [
-        "https://www.findallphoenixareahomes.com/guides/city/az/youngtown/",
-        "https://www.thewisechoiceaz.com/city_search/Youngtown",
-        "https://fred.stlouisfed.org/series/PHXRMTSA",
-        "https://www.masteryourmovenow.com/stats/arizona-real-estate-market",
-        "https://www.yardimatrix.com/"
+        "https://www.redfin.com/AZ/Youngtown/11464-W-Camden-Dr-85363/home/177286888",
+        "https://www.redfin.com/AZ/Youngtown/11452-W-Camden-Dr-85363/home/177286891",
+        "https://www.redfin.com/county/220/AZ/Maricopa-County/page-53",
+        "https://www.bindingoffers.com/market-pulse/az/youngtown",
+        "https://seayora.com/housing/arizona/youngtown/home-values"
       ]
     },
     "sun-city": {
@@ -561,19 +565,19 @@
       ]
     },
     "sun-city-west": {
-      "medianHomePrice": 349769,
+      "medianHomePrice": 372000,
       "pricePerSqFt": null,
-      "avgDaysOnMarket": null,
+      "avgDaysOnMarket": 57,
       "marketType": "buyer",
-      "yearOverYearChange": "-4.2%",
-      "asOf": "2026-08",
+      "yearOverYearChange": null,
+      "asOf": "2026-10",
       "confidence": "medium",
       "citations": [
-        "https://www.redfin.com/AZ/Sun-City-West/12932-W-El-Sueno-Ct-85375/home/28162322",
-        "https://www.redfin.com/AZ/Sun-City-West/22213-N-Via-Montoya-85375/home/28288520",
-        "https://www.redfin.com/AZ/Sun-City-West/14515-W-Osprey-Dr-85375/home/28028679",
-        "https://www.redfin.com/AZ/Sun-City-West/13626-W-Cavalcade-Dr-85375/home/28089390",
-        "https://www.bestwestagent.com/sun-city-west-real-estate-agent-near-you/"
+        "https://www.redfin.com/AZ/Sun-City-West/14113-W-Caballero-Dr-85375/home/28081218",
+        "https://www.redfin.com/AZ/Sun-City-West/23138-N-126th-Ln-85375/home/147919412",
+        "https://www.redfin.com/AZ/Sun-City-West/13233-W-Serenade-Cir-85375/home/28165452",
+        "https://www.redfin.com/AZ/Sun-City-West/20246-N-124th-Dr-85375/home/27459372",
+        "https://www.redfin.com/AZ/Sun-City-West/13502-W-Sky-Hawk-Dr-85375/home/27255095?msockid=3c7ad307bf736d1a18b7cb17be2d6cd8"
       ]
     },
     "wickenburg": {
@@ -641,51 +645,51 @@
       ]
     },
     "florence": {
-      "medianHomePrice": 339000,
+      "medianHomePrice": 330000,
       "pricePerSqFt": null,
-      "avgDaysOnMarket": 83,
+      "avgDaysOnMarket": 97,
       "marketType": "buyer",
       "yearOverYearChange": null,
-      "asOf": "2026-09",
+      "asOf": "2026-10",
       "confidence": "medium",
       "citations": [
-        "https://www.realtor.com/realestateandhomes-detail/E-Cactus-Forest-Rd_Florence_AZ_85132_M91051-73333",
-        "https://resideline.com/blog/cheapest-cities-to-buy-a-house-in-arizona",
-        "https://www.redfin.com/AZ/Florence/7446-E-Agua-Caliente-TRL-85132/home/205387974",
-        "https://www.redfin.com/AZ/Florence/12171-E-Reksom-Rd-85132/home/27129192",
-        "https://www.redfin.com/AZ/Florence/4233-N-Brigadier-Dr-85132/home/171283122"
+        "https://www.argohomesaz.com/florence-market-report/",
+        "https://www.redfin.com/AZ/Florence/22750-E-Roper-LN-85132/home/192222868",
+        "https://www.redfin.com/AZ/Florence/20545-E-Leavitt-LN-85132/home/206740763",
+        "https://www.redfin.com/AZ/Florence/25775-N-Cordilleran-AVE-85132/home/207002551",
+        "https://www.movoto.com/florence-az/25737-n-cordilleran-ave-florence-az-85132-471_7106620/"
       ]
     },
     "maricopa-city": {
       "medianHomePrice": 340000,
-      "pricePerSqFt": 181,
+      "pricePerSqFt": null,
       "avgDaysOnMarket": 93,
-      "marketType": "balanced",
+      "marketType": "buyer",
       "yearOverYearChange": "-3.3%",
       "asOf": "2026-10",
       "confidence": "medium",
       "citations": [
-        "https://www.realtor.com/research/october-2026-data/",
+        "https://www.redfin.com/AZ/Maricopa/11787-N-Orris-Dr-85139/home/162446851",
         "https://marketreports.longrealty.com/r?boundary=5a747f1d8137bb186eee392d&agent=448",
-        "https://www.redfin.com/AZ/Maricopa/235-N-Conejo-Rd-85139/home/26993084",
-        "https://www.realtor.com/realestateandhomes-detail/1651-W-Springfield-Way_Chandler_AZ_85286_M11314-62176",
-        "https://www.realtor.com/realestateandhomes-detail/11839-W-Roanoke-Ave_Avondale_AZ_85392_M24183-78891"
+        "https://www.redfin.com/AZ/Maricopa/Maricopa/Frontier/home/206891443",
+        "https://www.bignewsnetwork.com/news/279432159/maricopa-az-real-estate-agent-james-sanson-explains-how-to-sell-your-home-when-relocating",
+        "https://www.redfin.com/AZ/Maricopa/6994-N-Maple-St-85139/home/27016659?msockid=2b2ba84b739c63141271b05a72ba62a7"
       ]
     },
     "casa-grande": {
-      "medianHomePrice": 338000,
-      "pricePerSqFt": 180,
-      "avgDaysOnMarket": 61,
-      "marketType": "balanced",
-      "yearOverYearChange": "+0.9%",
+      "medianHomePrice": 313000,
+      "pricePerSqFt": 184,
+      "avgDaysOnMarket": 90,
+      "marketType": "buyer",
+      "yearOverYearChange": null,
       "asOf": "2026-10",
       "confidence": "medium",
       "citations": [
-        "https://homestats.app/cities/arizona-casa-grande/",
-        "https://www.movoto.com/casa-grande-az/11422-n-hazeldine-rd-casa-grande-az-85194-471_6430423/",
-        "https://www.movoto.com/casa-grande-az/2379-e-fiesta-dr-casa-grande-az-85194/pid_7jlcap5d8g/",
-        "https://www.movoto.com/casa-grande-az/2394-e-fiesta-dr-casa-grande-az-85194/pid_8mlcap5d8g/",
-        "https://www.movoto.com/casa-grande-az/630-e-melrose-dr-casa-grande-az-85122/pid_80ncap5d8g/"
+        "https://www.argohomesaz.com/casa-grande-market-report/",
+        "https://www.trulia.com/home/448-w-pintail-dr-casa-grande-az-85122-185877649",
+        "https://homes.re.eukreate.com/markets/az/casa-grande",
+        "https://www.redfin.com/city/2712/AZ/Casa-Grande/amenity/deck",
+        "https://www.redfin.com/AZ/Casa-Grande/1131-E-6th-St-85122/home/26873972"
       ]
     },
     "coolidge": {
@@ -737,35 +741,35 @@
       ]
     },
     "tucson": {
-      "medianHomePrice": 315850,
-      "pricePerSqFt": 201,
-      "avgDaysOnMarket": 66,
-      "marketType": "balanced",
-      "yearOverYearChange": "-1.3%",
-      "asOf": "2026-09",
+      "medianHomePrice": 358460,
+      "pricePerSqFt": null,
+      "avgDaysOnMarket": 36,
+      "marketType": "buyer",
+      "yearOverYearChange": "0.0%",
+      "asOf": "2026-10",
       "confidence": "medium",
       "citations": [
-        "https://www.realtor.com/research/October-2026-data/",
-        "https://finance.yahoo.com/real-estate/articles/active-inventory-grows-sellers-keep-110000426.html",
-        "https://axiom-properties.com/2026/10/19/tucson-home-prices-fall-2026/",
-        "https://www.redfin.com/AZ/Tucson/274-S-Sonoran-Heights-Dr-85748/home/50484990",
-        "https://www.redfin.com/news/housing-market-update-home-sale-prices-fall-october-2026/"
+        "https://mediaroom.realtor.com/2026-11-04-Active-Inventory-Grows-as-Sellers-Keep-Homes-on-the-Market-Realtor-com-R-October-Housing-Report",
+        "https://www.redfin.com/AZ/Tucson/7035-N-Mission-Hill-Ln-85718/home/50387425",
+        "https://www.redfin.com/AZ/Tucson/5156-E-Calle-Brillante-85718/home/50387549",
+        "https://www.redfin.com/AZ/Tucson/6348-N-Calle-de-Ona-85741/home/50364942",
+        "https://www.kyleberglund.com/community/blog/whats-happening-tucson-real-estate-october-2026"
       ]
     },
     "oro-valley": {
-      "medianHomePrice": 531000,
-      "pricePerSqFt": 261,
-      "avgDaysOnMarket": 24,
+      "medianHomePrice": 527133,
+      "pricePerSqFt": null,
+      "avgDaysOnMarket": 72,
       "marketType": "buyer",
-      "yearOverYearChange": "-2.12%",
-      "asOf": "2026-09",
+      "yearOverYearChange": "-1.5%",
+      "asOf": "2026-10",
       "confidence": "medium",
       "citations": [
-        "https://www.redfin.com/AZ/Tucson/15941-N-Strada-Catania-85739/unit-154/home/206882438",
-        "https://www.redfin.com/AZ/Oro-Valley/10944-N-Gemma-Ave-85742/home/109018586",
-        "https://www.joeramirezrealtor.com/oro-valley-guide",
-        "https://www.longrealty.com/realestate/search/city/Oro_Valley/az/property-type-VacantLand",
-        "https://www.movoto.com/oro-valley-az/930-w-tortolita-mountain-cir-oro-valley-az-85755-472_21036535/"
+        "https://www.redfin.com/AZ/Oro-Valley/11816-N-Cassiopeia-Dr-85737/home/50563388",
+        "https://www.redfin.com/AZ/Oro-Valley/897-E-Crown-Ridge-Dr-85755/home/50571423",
+        "https://www.redfin.com/AZ/Oro-Valley/10927-N-Pomegranate-Dr-85737/home/50578027",
+        "https://www.redfin.com/AZ/Oro-Valley/13283-N-Lost-Artifact-Ln-85755/home/50560860",
+        "https://www.realtor.com/research/October-2026-data/"
       ]
     },
     "marana": {
@@ -802,7 +806,7 @@
     },
     "green-valley": {
       "medianHomePrice": 310000,
-      "pricePerSqFt": null,
+      "pricePerSqFt": 187,
       "avgDaysOnMarket": 66,
       "marketType": "buyer",
       "yearOverYearChange": "-4.6%",
@@ -810,10 +814,10 @@
       "confidence": "medium",
       "citations": [
         "https://marketreports.longrealty.com/r?boundary=638f8b43ad194f0008960894&agent=2010419",
-        "https://www.movoto.com/green-valley-az/555-w-rio-teras-green-valley-az-85614/pid_atos7r4d8g/",
-        "https://www.longrealty.com/realestate/search/city/Green_Valley/az/property-type-VacantLand",
-        "https://www.movoto.com/green-valley-az/260-w-paseo-del-chino-green-valley-az-85614/pid_k6fs7r4d8g/",
-        "https://www.movoto.com/green-valley-az/1304-s-desert-meadows-cir-green-valley-az-85614-472_2219824/"
+        "https://www.redfin.com/AZ/Green-Valley/1173-W-Camino-Velasquez-85622/home/50620533",
+        "https://www.redfin.com/AZ/Green-Valley/2431-E-Wrightson-View-Dr-85614/home/179084318",
+        "https://www.redfin.com/AZ/Green-Valley/2920-S-Placita-Nublada-85622/home/50620514",
+        "https://www.redfin.com/AZ/Green-Valley/145-S-Paseo-Sarta-85614/unit-D/home/194011088"
       ]
     },
     "south-tucson": {
