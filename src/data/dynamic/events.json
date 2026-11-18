@@ -1,23 +1,6 @@
 {
-  "lastUpdated": "2026-11-17",
+  "lastUpdated": "2026-11-18",
   "events": [
-    {
-      "id": "evt-20261117-1",
-      "title": "Nick Shoulders: Apocalypse, Never! Tour",
-      "startDate": "2026-11-17",
-      "endDate": null,
-      "time": "7:30 PM",
-      "venueName": "Orpheum Theater",
-      "venueCity": "Flagstaff",
-      "venueAddress": "15 W Aspen Ave, Flagstaff, AZ 86001",
-      "category": "Music",
-      "description": "Yodeling country artist Nick Shoulders plays the Orpheum Theater on his Apocalypse, Never! Tour. Doors open at 6:30 PM ahead of the 7:30 PM show.",
-      "sourceUrl": "https://wl.seetickets.us/event/nick-shoulders-apocalypse-never-tour/686691?afflky=OrpheumTheater",
-      "source": "manual",
-      "imageKeyword": "country music concert stage",
-      "lat": null,
-      "lng": null
-    },
     {
       "id": "christmas-at-the-princess-2026-11-20",
       "title": "Christmas at the Princess",
@@ -1005,6 +988,23 @@
       "lng": null
     },
     {
+      "id": "evt-20261118-1",
+      "title": "Winter at the Waterfront",
+      "startDate": "2026-12-05",
+      "endDate": "2026-12-19",
+      "time": "Saturdays, 6:00 PM - 9:00 PM",
+      "venueName": "Scottsdale Waterfront, Old Town Scottsdale",
+      "venueCity": "Scottsdale",
+      "venueAddress": "7447 E Indian School Rd, Scottsdale, AZ 85251",
+      "category": "Holiday",
+      "description": "Old Town Scottsdale decorates the Waterfront canal banks with holiday lights for three Saturday evenings. The event features a 36 foot Scottsdazzle Tree, live music, hot cocoa and seasonal snacks, plus pop up holiday boutiques on Stetson Plaza.",
+      "sourceUrl": "https://www.experiencescottsdale.com/event/winter-at-the-waterfront/374951/",
+      "source": "manual",
+      "imageKeyword": "holiday lights canal evening",
+      "lat": null,
+      "lng": null
+    },
+    {
       "id": "evt-20260922-7",
       "title": "Arizona Cardinals vs. Philadelphia Eagles",
       "startDate": "2026-12-06",
@@ -1086,6 +1086,23 @@
       "sourceUrl": "https://www.rialtotheatre.com/tm-event/scott-bradlees-postmodern-jukebox-the-future-is-vintage-world-tour/",
       "source": "manual",
       "imageKeyword": "vintage jazz band concert",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "evt-20261118-2",
+      "title": "A Celtic Christmas by A Taste of Ireland",
+      "startDate": "2026-12-08",
+      "endDate": null,
+      "time": "7:30 PM",
+      "venueName": "Fox Tucson Theatre",
+      "venueCity": "Tucson",
+      "venueAddress": "17 W Congress St, Tucson, AZ 85701",
+      "category": "Arts",
+      "description": "A Taste of Ireland brings an Irish holiday show to the Fox Tucson Theatre, mixing Irish step dance, live music, a cappella tap and storytelling. The touring cast includes former World Irish dance champions and performers from Lord of the Dance and Riverdance.",
+      "sourceUrl": "https://foxtucson.com/event/celtic-christmas/",
+      "source": "manual",
+      "imageKeyword": "irish dance holiday show theater",
       "lat": null,
       "lng": null
     },
@@ -1681,6 +1698,23 @@
       "sourceUrl": "https://www.azcardinals.com/schedule/",
       "source": "manual",
       "imageKeyword": "football stadium",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "evt-20261118-3",
+      "title": "Arizona Cardinals vs. San Francisco 49ers",
+      "startDate": "2027-01-10",
+      "endDate": null,
+      "time": "TBD",
+      "venueName": "State Farm Stadium",
+      "venueCity": "Glendale",
+      "venueAddress": "1 Cardinals Dr, Glendale, AZ 85305",
+      "category": "Sports",
+      "description": "The Arizona Cardinals close out their home slate hosting the San Francisco 49ers in Week 18 of the NFL regular season. Kickoff time has not yet been announced.",
+      "sourceUrl": "https://www.fox10phoenix.com/sports/arizona-cardinals-2026-schedule-released",
+      "source": "manual",
+      "imageKeyword": "nfl football stadium game",
       "lat": null,
       "lng": null
     },
