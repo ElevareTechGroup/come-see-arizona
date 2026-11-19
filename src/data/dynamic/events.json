@@ -1,6 +1,23 @@
 {
-  "lastUpdated": "2026-11-18",
+  "lastUpdated": "2026-11-19",
   "events": [
+    {
+      "id": "evt-20261119-1",
+      "title": "Christmas with CeCe Winans",
+      "startDate": "2026-12-15",
+      "endDate": null,
+      "time": "7:00 PM",
+      "venueName": "Arizona Financial Theatre",
+      "venueCity": "Phoenix",
+      "venueAddress": "400 W Washington St, Phoenix, AZ 85003",
+      "category": "Music",
+      "description": "Gospel singer CeCe Winans brings her Christmas with CeCe Winans tour to Arizona Financial Theatre, joined by her sisters Angie and Debbie Winans for an evening of holiday and gospel music. The Phoenix stop is one of six cities on the 2026 tour.",
+      "sourceUrl": "https://gospelmusic.org/news/cece-winans-announces-return-of-christmas-with-cece-winans-for-2026",
+      "source": "manual",
+      "imageKeyword": "gospel holiday concert theater",
+      "lat": null,
+      "lng": null
+    },
     {
       "id": "christmas-at-the-princess-2026-11-20",
       "title": "Christmas at the Princess",
