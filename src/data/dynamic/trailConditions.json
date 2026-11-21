@@ -1,240 +1,240 @@
 {
-  "lastUpdated": "2026-11-20",
+  "lastUpdated": "2026-11-21",
   "conditions": {
     "camelback-echo-canyon": {
       "status": "open",
-      "note": "A direct check of the City of Phoenix trails page today found no active closure, construction notice, or heat restriction for Echo Canyon Trail. The city's only current trail closure is an unrelated North Mountain Park renovation, now confirmed running December 1, 2026 through early 2028 (Source: City of Phoenix Parks and Recreation). Dogs remain prohibited on trails when temperatures exceed 100F. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
-      "lastChecked": "2026-11-20"
+      "note": "A direct check of the City of Phoenix trails page today found no closure notice for Echo Canyon Trail; the prior 2026 construction window has passed with no indication it reopened with new restrictions. The city's only current trail closure is an unrelated North Mountain Park renovation, running December 1, 2026 through early 2028 (Source: City of Phoenix Parks and Recreation). Dogs remain prohibited on trails when temperatures exceed 100F. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
+      "lastChecked": "2026-11-21"
     },
     "camelback-cholla": {
       "status": "open",
-      "note": "A direct check of the City of Phoenix trails page today found no active closure or construction notice for Cholla Trail. The city's only current trail closure is an unrelated North Mountain Park renovation, now confirmed running December 1, 2026 through early 2028 (Source: City of Phoenix Parks and Recreation). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
-      "lastChecked": "2026-11-20"
+      "note": "A direct check of the City of Phoenix trails page today found no closure notice for Cholla Trail; the prior 2026 construction window has passed. The city's only current trail closure is an unrelated North Mountain Park renovation, running December 1, 2026 through early 2028 (Source: City of Phoenix Parks and Recreation). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
+      "lastChecked": "2026-11-21"
     },
     "piestewa-peak": {
       "status": "open",
-      "note": "A direct check of the City of Phoenix trails page today found no closure for the Piestewa Peak Summit Trail; the city's only current trail closure is an unrelated North Mountain Park renovation, now confirmed running December 1, 2026 through early 2028 (Source: City of Phoenix Parks and Recreation). Dogs remain prohibited on trails when temperatures exceed 100F. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
-      "lastChecked": "2026-11-20"
+      "note": "A direct check of the City of Phoenix trails page today found no closure for the Piestewa Peak Summit Trail; the city's only current trail closure is an unrelated North Mountain Park renovation, running December 1, 2026 through early 2028 (Source: City of Phoenix Parks and Recreation). Dogs remain prohibited on trails when temperatures exceed 100F. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
+      "lastChecked": "2026-11-21"
     },
     "south-mountain-mormon": {
       "status": "open",
-      "note": "A direct check of the City of Phoenix trails page today found no closure, construction, or storm damage notice for Mormon Trail. This trail is subject to heat-based closure from 8am to 5pm only when the National Weather Service issues an Extreme Heat Warning (Source: City of Phoenix Parks and Recreation). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
-      "lastChecked": "2026-11-20"
+      "note": "A direct check of the City of Phoenix trails page today found no closure, construction, or storm damage notice for Mormon Trail. This trail is subject to heat based closure from 8am to 5pm only when the National Weather Service issues an Extreme Heat Warning (Source: City of Phoenix Parks and Recreation). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
+      "lastChecked": "2026-11-21"
     },
     "papago-hole-in-rock": {
       "status": "open",
       "note": "A direct check of the City of Phoenix trails page today found no closure or construction notice for Hole-in-the-Rock Trail; posted trail hours are 5am to 11pm (Source: City of Phoenix Parks and Recreation). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "double-butte-loop": {
       "status": "open",
       "note": "A direct check of the City of Phoenix trails page today found no closure for Double Butte Loop Trail or Papago Park overall (Source: City of Phoenix Parks and Recreation). There are no trail markers at the start where the route intersects other Papago Park paths, so watch for signage. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr).",
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "lookout-mountain": {
       "status": "open",
-      "note": "A direct check of the City of Phoenix trails page today found no current closure notice for Lookout Mountain Preserve; the city's only current trail closure is an unrelated North Mountain Park renovation, now confirmed running December 1, 2026 through early 2028 (Source: City of Phoenix Parks and Recreation). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
-      "lastChecked": "2026-11-20"
+      "note": "A direct check of the City of Phoenix trails page today found no current closure notice for Lookout Mountain Preserve; the city's only current trail closure is an unrelated North Mountain Park renovation, running December 1, 2026 through early 2028 (Source: City of Phoenix Parks and Recreation). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
+      "lastChecked": "2026-11-21"
     },
     "usery-wind-cave": {
       "status": "open",
       "note": "Today's check of Maricopa County Parks' park-alerts page (maricopacountyparks.net) found no active alert or closure listed for Usery Mountain Regional Park or Wind Cave Trail (Source: Maricopa County Parks and Recreation). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "pass-mountain": {
       "status": "open",
       "note": "Today's check of Maricopa County Parks' park-alerts page (maricopacountyparks.net) found no active alert or closure listed for Pass Mountain Trail at Usery Mountain Regional Park (Source: Maricopa County Parks and Recreation). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "white-tank-waterfall": {
       "status": "open",
-      "note": "Today's check of Maricopa County Parks' park-alerts page (maricopacountyparks.net) found no closure or construction notice naming White Tank Mountain Regional Park, its Trailhead Staging Area, or the Waterfall, Ford Canyon, Mesquite Canyon, or Mule Deer Trails (Source: Maricopa County Parks and Recreation). The county's current alerts list unrelated items elsewhere in the county, including a Lake Pleasant Pipeline Trailhead closure (November 10, 2026 through March 10, 2027), Maricopa Trail Segments 8, 9, 27, and 35, and Skunk Creek Crossing culvert construction; none name White Tank. Call the park's Nature Center at 602-506-2930 ext. 5 to confirm current access before visiting.",
-      "lastChecked": "2026-11-20"
+      "note": "Today's check of Maricopa County Parks' park-alerts page (maricopacountyparks.net) found no closure or construction notice naming White Tank Mountain Regional Park, its Trailhead Staging Area, or the Waterfall, Ford Canyon, Mesquite Canyon, or Mule Deer Trails (Source: Maricopa County Parks and Recreation). Call the park's Nature Center at 602-506-2930 ext. 5 to confirm current access before visiting.",
+      "lastChecked": "2026-11-21"
     },
     "estrella-competitive": {
       "status": "open",
-      "note": "A fresh check today of Maricopa County Parks' park-alerts page (maricopacountyparks.net) found no closure or construction notice naming Estrella Mountain Regional Park itself; the county's flood-related Maricopa Trail Segments 8, 9, and 35 closures are confirmed today as being outside the park and do not affect this trail (Source: Maricopa County Parks and Recreation). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr).",
-      "lastChecked": "2026-11-20"
+      "note": "Today's check of Maricopa County Parks' park-alerts page (maricopacountyparks.net) confirms the county's Maricopa Trail Segments 8, 9, and 35 closures sit outside Estrella Mountain Regional Park and do not affect this trail; no closure notice names the park itself (Source: Maricopa County Parks and Recreation). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr).",
+      "lastChecked": "2026-11-21"
     },
     "thunderbird-h3": {
       "status": "open",
-      "note": "News coverage of the City of Glendale's Thunderbird Conservation Park trailhead improvements project, last updated around April 2026, describes a staggered schedule: the 59th Avenue lot closed starting April 6, 2026 and is expected to remain closed through December 2026, with the 55th Avenue lot projected to close from around August 2026 through February 2027 and the 67th Avenue lot from January through August 2027; only one trailhead closes at a time and trails themselves stay open throughout construction (Source: City of Glendale, via regional news coverage, not reconfirmed against a live city page today). Cholla Loop's (H3) most direct access runs through the 59th Avenue lot, inside its closure window; use the 55th Avenue or 67th Avenue alternate trailheads, noting 55th Avenue may also be inside its own closure window depending on exact timing. Call the project hotline at 602-532-6250 to confirm current access before visiting.",
-      "lastChecked": "2026-11-20"
+      "note": "Regional news coverage of the City of Glendale's Thunderbird Conservation Park trailhead improvements project confirms the 59th Avenue lot remains closed through roughly December 2026, and the 55th Avenue lot closure window (August 2026 through February 2027) is now active; only one trailhead closes at a time and the trails themselves stay open throughout construction (Source: City of Glendale, via regional news coverage, not reconfirmed against a live city page today). Use the 67th Avenue trailhead as the clear alternate while 59th and 55th Avenue lots are both affected. Call the project hotline at 602-532-6250 to confirm current access before visiting.",
+      "lastChecked": "2026-11-21"
     },
     "victory-steps-verrado": {
       "status": "restricted",
       "note": "No official Town of Buckeye or Verrado HOA source confirming current status was found in a fresh check today; this remains a privately managed community feature rather than a municipal trail (Source: Town of Buckeye, unconfirmed for this feature; Verrado community website). Third-party trail guides describe it as freely open to the public with no permits or fees, but none is an official access notice. It remains marked restricted out of caution until an official source can confirm current access; visitors should verify through the Verrado community or HOA.",
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "sunrise-peak": {
       "status": "open",
-      "note": "The City of Scottsdale's Preserve page, updated November 18, 2026 and checked directly today, lists no trailhead-specific alert for the Sunrise Trailhead; the only active trailhead closure named on the page is Tom's Thumb (Source: City of Scottsdale / McDowell Sonoran Preserve). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
-      "lastChecked": "2026-11-20"
+      "note": "A direct check of the City of Scottsdale's McDowell Sonoran Preserve page today found no closure, alert, or restriction listed for Sunrise Trailhead; the only active trailhead closure named on the page is Tom's Thumb (Source: City of Scottsdale / McDowell Sonoran Preserve). Dogs should stay home when conditions will exceed 90F, and e-bikes are prohibited preserve wide. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
+      "lastChecked": "2026-11-21"
     },
     "toms-thumb": {
       "status": "closed",
-      "note": "The City of Scottsdale's Preserve page, updated November 18, 2026 and checked directly today, now shows Tom's Thumb Trailhead closed to all public access, not just the prior TT2 to EE1 segment. Crews are removing large boulders that dislodged from saturated, unstable soil after recent rainfall, and the page gives no reopening date, stating it will reopen upon successful completion of the work (Source: City of Scottsdale / McDowell Sonoran Preserve). This trailhead has no drinking water. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr).",
-      "lastChecked": "2026-11-20"
+      "note": "The City of Scottsdale's McDowell Sonoran Preserve page, checked directly today, confirms Tom's Thumb Trailhead remains closed to all public access, effective November 18, 2026, while crews remove boulders that shifted after recent rainfall on saturated, unstable soil. No reopening date is given; the page states it will reopen upon successful completion of the work (Source: City of Scottsdale / McDowell Sonoran Preserve). This trailhead has no drinking water. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr).",
+      "lastChecked": "2026-11-21"
     },
     "pinnacle-peak": {
       "status": "open",
-      "note": "A fresh check today of the City of Scottsdale's Pinnacle Peak Park page found no current closure; standing rules require hikers to be off the trail by one hour before posted closing time and prohibit dogs and bikes (Source: City of Scottsdale). This trailhead is a separate municipal park from McDowell Sonoran Preserve and is not listed among the Preserve's trailheads. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service). Hike before 7am or after 6pm and carry extra water.",
-      "lastChecked": "2026-11-20"
+      "note": "A direct check of the City of Scottsdale's Pinnacle Peak Park page today found no closure for the trail itself; a tree trimming and fire mitigation closure of the lot and the east side of 102nd Way ran November 17 to 18, 2026 and has passed, and street parking restrictions are scheduled November 23 to 24, 2026 (Source: City of Scottsdale, Pinnacle Peak Park). This trailhead is a separate municipal park from McDowell Sonoran Preserve. Dogs and bikes remain prohibited; stay alert for rattlesnakes and remain on the trail at all times. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr).",
+      "lastChecked": "2026-11-21"
     },
     "gateway-loop": {
       "status": "open",
-      "note": "The City of Scottsdale's Preserve page, updated November 18, 2026 and checked directly today, lists no trailhead-specific alert for the Gateway Trailhead; the only active trailhead closure named on the page is Tom's Thumb (Source: City of Scottsdale / McDowell Sonoran Preserve). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
-      "lastChecked": "2026-11-20"
+      "note": "A direct check of the City of Scottsdale's McDowell Sonoran Preserve page today found no closure, alert, or restriction listed for Gateway Trailhead; the only active trailhead closure named on the page is Tom's Thumb (Source: City of Scottsdale / McDowell Sonoran Preserve). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
+      "lastChecked": "2026-11-21"
     },
     "lost-dog-wash": {
       "status": "open",
-      "note": "This trail follows a desert wash in the McDowell Sonoran Preserve near Scottsdale. The City of Scottsdale's Preserve page, updated November 18, 2026 and checked directly today, lists no closure or alert for Lost Dog Wash Trailhead; the only active trailhead closure named on the page is Tom's Thumb (Source: City of Scottsdale / McDowell Sonoran Preserve). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Turn back at any flowing water.",
-      "lastChecked": "2026-11-20"
+      "note": "A direct check of the City of Scottsdale's McDowell Sonoran Preserve page today found no closure or alert for Lost Dog Wash Trailhead; the only active trailhead closure named on the page is Tom's Thumb (Source: City of Scottsdale / McDowell Sonoran Preserve). This trail follows a desert wash; turn back at any flowing water. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr).",
+      "lastChecked": "2026-11-21"
     },
     "browns-ranch": {
       "status": "restricted",
-      "note": "The City of Scottsdale's Preserve page, updated November 18, 2026 and checked directly today, no longer lists an active closure notice naming Brown's Ranch Trailhead, but it only carries a leftover Preserve Month reference to a grand reopening anticipated in late October 2026, with no statement confirming that reopening occurred (Source: City of Scottsdale / McDowell Sonoran Preserve). Status stays restricted rather than open until an official source confirms the trailhead has reopened. No street or neighborhood parking is permitted as a workaround. Alternate access points are Tom's Thumb (also currently closed, see that entry), Pima-Dynamite, Fraesfield, and Granite Mountain trailheads; the latter two lack water. Call 480-312-0159 or 480-312-0994 to confirm current status before visiting.",
-      "lastChecked": "2026-11-20"
+      "note": "The City of Scottsdale's McDowell Sonoran Preserve page, checked directly today, still does not confirm whether Brown's Ranch Trailhead has reopened; it carries only a leftover Preserve Month reference to a grand reopening anticipated in late October 2026, with no statement confirming that reopening occurred (Source: City of Scottsdale / McDowell Sonoran Preserve). Status stays restricted rather than open until an official source confirms the trailhead has reopened. No street or neighborhood parking is permitted as a workaround. Alternate access points are Pima-Dynamite, Fraesfield, and Granite Mountain trailheads; Tom's Thumb is also currently closed, and Fraesfield and Granite Mountain lack water. Call 480-312-0159 or 480-312-0994 to confirm current status before visiting.",
+      "lastChecked": "2026-11-21"
     },
     "cathedral-rock": {
       "status": "restricted",
-      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with many recreation sites and areas still closed for safety and no reopening date given. Three additional nearby closures for flood damage (Beaver Creek Picnic Site, Chavez Crossing Group Campground, Cave Springs Campground) were added November 12, 2026, reinforcing that flood impacts remain ongoing (Source: Coconino National Forest). Fire danger for the Red Rock Ranger District is rated Low with no fire restrictions in effect. No closure order was found naming Cathedral Rock Trail specifically, but it stays marked restricted out of caution while the district-wide flood alert remains active. A Red Rock Pass is required for trailhead parking. Call the Red Rock Ranger District at 928-203-2900 before visiting.",
-      "lastChecked": "2026-11-20"
+      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, alongside flood-damage closures added November 12, 2026 at nearby Beaver Creek Picnic Site, Chavez Crossing Group Campground, and Cave Springs Campground. Fire danger for the Red Rock Ranger District is rated Low with no fire restrictions in effect. No closure order names Cathedral Rock Trail specifically, but it stays marked restricted out of caution while the district wide flood alert remains active. A Red Rock Pass is required for trailhead parking. Call the Red Rock Ranger District at 928-203-2900 before visiting. Source: Coconino National Forest.",
+      "lastChecked": "2026-11-21"
     },
     "devils-bridge": {
       "status": "restricted",
-      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, and reinforced by three new flood-damage closures added November 12, 2026 at nearby Oak Creek Canyon sites (Source: Coconino National Forest). Fire danger for the Red Rock Ranger District is rated Low with no fire restrictions in effect. No closure order names Devil's Bridge Trail No. 120 specifically, but the unpaved Dry Creek Road access crosses washes that may still be affected by the flooding, so it stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting.",
-      "lastChecked": "2026-11-20"
+      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, alongside flood-damage closures added November 12, 2026 nearby. Fire danger is rated Low with no fire restrictions in effect. No closure order names Devil's Bridge Trail No. 120 specifically, but the unpaved Dry Creek Road access crosses washes that may still be affected by the flooding, so it stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting. Source: Coconino National Forest.",
+      "lastChecked": "2026-11-21"
     },
     "bell-rock-courthouse": {
       "status": "restricted",
-      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, and reinforced by three new flood-damage closures added November 12, 2026 nearby (Source: Coconino National Forest). Fire danger for the district is rated Low with no fire restrictions in effect. This trailhead sits along SR 179 in the Village of Oak Creek, an area with reported flood impacts, so it stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting.",
-      "lastChecked": "2026-11-20"
+      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, alongside flood-damage closures added November 12, 2026 nearby. Fire danger is rated Low with no fire restrictions in effect. This trailhead sits along SR 179 in the Village of Oak Creek, an area with reported flood impacts, so it stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting. Source: Coconino National Forest.",
+      "lastChecked": "2026-11-21"
     },
     "boynton-canyon": {
       "status": "restricted",
-      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, and reinforced by three new flood-damage closures added November 12, 2026 nearby (Source: Coconino National Forest). Fire danger for the district is rated Low with no fire restrictions in effect. Boynton Canyon Trail No. 47 carries no closure order found today, but it enters a canyon with burn scar terrain upstream, raising flood risk further, so it stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting.",
-      "lastChecked": "2026-11-20"
+      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, alongside flood-damage closures added November 12, 2026 nearby. Fire danger is rated Low with no fire restrictions in effect. Boynton Canyon Trail No. 47 carries no closure order found today, but it enters a canyon with burn scar terrain upstream, raising flood risk further, so it stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting. Source: Coconino National Forest.",
+      "lastChecked": "2026-11-21"
     },
     "fay-canyon": {
       "status": "restricted",
-      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, and reinforced by three new flood-damage closures added November 12, 2026 nearby (Source: Coconino National Forest). Fire danger for the district is rated Low with no fire restrictions in effect. Fay Canyon Trail No. 53 carries no closure order found today, but it enters a canyon with burn scar terrain upstream, raising flood risk further, so it stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting.",
-      "lastChecked": "2026-11-20"
+      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, alongside flood-damage closures added November 12, 2026 nearby. Fire danger is rated Low with no fire restrictions in effect. Fay Canyon Trail No. 53 carries no closure order found today, but it enters a canyon with burn scar terrain upstream, raising flood risk further, so it stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting. Source: Coconino National Forest.",
+      "lastChecked": "2026-11-21"
     },
     "soldier-pass": {
       "status": "restricted",
-      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, and reinforced by three new flood-damage closures added November 12, 2026 nearby (Source: Coconino National Forest). Fire danger for the district is rated Low with no fire restrictions in effect. Soldier Pass Trail No. 66 carries no specific closure order found today, but its seasonal pools and washes can rise quickly after flooding, and access normally runs on a shuttle system with private vehicle parking otherwise closed; a Red Rock Pass is required. It stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting.",
-      "lastChecked": "2026-11-20"
+      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, alongside flood-damage closures added November 12, 2026 nearby. Fire danger is rated Low with no fire restrictions in effect. Soldier Pass Trail No. 66 carries no specific closure order found today, but its seasonal pools and washes can rise quickly after flooding, and access normally runs on a shuttle system with private vehicle parking otherwise closed; a Red Rock Pass is required. It stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting. Source: Coconino National Forest.",
+      "lastChecked": "2026-11-21"
     },
     "bear-mountain": {
       "status": "restricted",
-      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, and reinforced by three new flood-damage closures added November 12, 2026 nearby (Source: Coconino National Forest). Fire danger for the district is rated Low with no fire restrictions in effect. Bear Mountain Trail carries no specific closure order found today. This is a steep, fully exposed trail with added runoff risk from recent flooding, so it stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting.",
-      "lastChecked": "2026-11-20"
+      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, alongside flood-damage closures added November 12, 2026 nearby. Fire danger is rated Low with no fire restrictions in effect. Bear Mountain Trail carries no specific closure order found today. This is a steep, fully exposed trail with added runoff risk from recent flooding, so it stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting. Source: Coconino National Forest.",
+      "lastChecked": "2026-11-21"
     },
     "airport-mesa": {
       "status": "restricted",
-      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, and reinforced by three new flood-damage closures added November 12, 2026 nearby (Source: Coconino National Forest). Fire danger for the district is rated Low with no fire restrictions in effect. Airport Mesa carries no specific closure order found today. A Red Rock Pass is required for parking at either the loop or vortex trailhead lots. It stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting.",
-      "lastChecked": "2026-11-20"
+      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, alongside flood-damage closures added November 12, 2026 nearby. Fire danger is rated Low with no fire restrictions in effect. Airport Mesa carries no specific closure order found today. A Red Rock Pass is required for parking at either the loop or vortex trailhead lots. It stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting. Source: Coconino National Forest.",
+      "lastChecked": "2026-11-21"
     },
     "mescal-courthouse": {
       "status": "restricted",
-      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, and reinforced by three new flood-damage closures added November 12, 2026 nearby (Source: Coconino National Forest). Fire danger for the district is rated Low with no fire restrictions in effect. Mescal Trail No. 174C carries no specific closure order found today, but its Dry Creek Road access crosses washes that may still be affected by the flooding, so it stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting.",
-      "lastChecked": "2026-11-20"
+      "note": "The Coconino National Forest's own alerts page, checked directly today, still lists the Red Rock Ranger District severe flooding alert as active, started November 2, 2026, with no reopening date given, alongside flood-damage closures added November 12, 2026 nearby. Fire danger is rated Low with no fire restrictions in effect. Mescal Trail No. 174C carries no specific closure order found today, but its Dry Creek Road access crosses washes that may still be affected by the flooding, so it stays marked restricted out of caution. Call the Red Rock Ranger District at 928-203-2900 before visiting. Source: Coconino National Forest.",
+      "lastChecked": "2026-11-21"
     },
     "west-fork-oak-creek": {
       "status": "closed",
-      "note": "West Fork Trail No. 108 and the Call of the Canyon Picnic Site remain closed under the Coconino National Forest's West Fork Temporary Area Closure (Order #03-04-00-26-09), addressing rockfall and flood debris hazard in the West Fork watershed tied to the Pocket Fire. The forest's alerts page, checked directly today, confirms this closure extends through February 27, 2027 unless rescinded (Source: Coconino National Forest). Reporting from AZFamily and KJZZ in late October 2026 states reopening requires trail work, possible rerouting, debris removal, and a U.S. Fish and Wildlife Service consultation, none of which has been reported complete. No estimated reopening before February 27, 2027 at the earliest. Call the Red Rock Ranger District at 928-203-2900 before visiting.",
-      "lastChecked": "2026-11-20"
+      "note": "West Fork Trail No. 108 and the Call of the Canyon Picnic Site remain closed under the Coconino National Forest's West Fork Temporary Area Closure, Forest Order #03-04-00-26-09, addressing rockfall and flood debris hazard in the West Fork watershed tied to the Pocket Fire. The forest's alerts page, checked directly today, confirms this closure remains active and extended through February 27, 2027. No estimated reopening before that date. Call the Red Rock Ranger District at 928-203-2900 before visiting. Source: Coconino National Forest.",
+      "lastChecked": "2026-11-21"
     },
     "humphreys-peak": {
       "status": "open",
-      "note": "The Coconino National Forest's alerts page, checked directly today, lists no alert for Humphreys Peak Trail, the Kachina Peaks Wilderness, or Snowbowl Road; fire danger is rated Low for the Flagstaff Ranger District, with only standing year-round camping and campfire restrictions in effect, not a hiking closure (Source: Coconino National Forest). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). This trail rises above treeline, so watch for afternoon weather; early-season snow and ice are possible in November, carry traction devices.",
-      "lastChecked": "2026-11-20"
+      "note": "The Coconino National Forest's alerts page, checked directly today, confirms Fire Danger remains Low for the Flagstaff Ranger District with no closure for Humphreys Peak Trail or the Kachina Peaks Wilderness. The standing San Francisco Peaks Alpine Tundra and Inner Basin order (#03-04-08-24-04) prohibits leaving the trail above 11,500 feet on Humphreys, Abineau, and Agassiz Peaks, but exempts hikers who stay on Forest System Trails, so the trail itself remains open (Source: Coconino National Forest). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). This trail rises above treeline; expect cold temperatures, wind, and possible snow or ice in November, and carry traction devices.",
+      "lastChecked": "2026-11-21"
     },
     "kachina-trail": {
       "status": "open",
-      "note": "The Coconino National Forest's alerts page, checked directly today, lists no closure or restriction for Kachina Trail; fire danger for the Flagstaff Ranger District is rated Low, with only standing year-round camping and campfire restrictions in effect, not a hiking closure (Source: Coconino National Forest). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Dress for cold mornings and avoid exposed ridgelines during any afternoon weather; early-season snow and ice are possible in November.",
-      "lastChecked": "2026-11-20"
+      "note": "The Coconino National Forest's alerts page, checked directly today, lists no closure or restriction for Kachina Trail; Fire Danger for the Flagstaff Ranger District is rated Low (Source: Coconino National Forest). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Dress for cold mornings and watch for early-season snow or ice on shaded, north-facing sections in November.",
+      "lastChecked": "2026-11-21"
     },
     "walnut-canyon": {
       "status": "restricted",
-      "note": "Walnut Canyon National Monument's official conditions page, checked directly again today, still shows an empty alerts section stamped as last updated March 23, 2016, so the Rim Trail and Island Trail's current status cannot be freshly confirmed from a live source (Source: National Park Service, access unconfirmed today). The Superintendent's Compendium sets standard hours of 9am to 5pm daily for the Visitor Center, Rim Trail, and Island Trail, closed only December 25 and January 1, but trails may also close during Red Flag days, snow cover, or rockfall hazard. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Marked restricted out of caution until a live NPS check or a direct call confirms current access; call the monument at 928-526-3367 before visiting.",
-      "lastChecked": "2026-11-20"
+      "note": "Walnut Canyon National Monument's official conditions page, checked directly again today, still shows an empty alerts section stamped as last updated March 23, 2016, so the Rim Trail and Island Trail's current status cannot be freshly confirmed from a live source (Source: National Park Service, access unconfirmed today). Standard hours are reported elsewhere as 9am to 5pm daily, closed only December 25, though one other NPS release lists 9am to 4:30pm, so posted hours are inconsistent across sources, and trails may also close during Red Flag days, snow cover, or rockfall hazard. Marked restricted out of caution until a live NPS check or a direct call confirms current access; call the monument at 928-526-3367 before visiting.",
+      "lastChecked": "2026-11-21"
     },
     "lava-river-cave": {
       "status": "open",
-      "note": "The Coconino National Forest's alerts page, checked directly today, lists no closure for Lava River Cave itself and fire danger Low for the Flagstaff Ranger District (Source: Coconino National Forest). A previously reported West Wing Pile Burn closure near Wing Mountain and Fort Valley (Order #03-04-08-26-08, started October 16, 2026) was not confirmed as still active or ended on today's check; call ahead if traveling Highway 180 or FSR 222. The cave itself is unlit and near freezing year round. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Bring multiple light sources and sturdy footwear.",
-      "lastChecked": "2026-11-20"
+      "note": "The Coconino National Forest's alerts page, checked directly today, lists no closure for Lava River Cave itself and Fire Danger Low for the Flagstaff Ranger District (Source: Coconino National Forest). The West Wing Pile Burn closure (Order #03-04-08-26-08, started October 16, 2026) remains listed with no end date; it affects an area near Wing Mountain and Fort Valley where smoke and flames may be visible from Highway 180 and FSR 222 during ignitions, but it does not close the cave or its access roads. Access roads FR 245 and FR 171 are typically closed to vehicles by snow or mud in winter, requiring a ski or hike in of about four miles one way from US 180; call the district to confirm road access. The cave itself is unlit and near freezing year round. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Bring multiple light sources and sturdy footwear.",
+      "lastChecked": "2026-11-21"
     },
     "peralta-fremont-saddle": {
       "status": "open",
-      "note": "A fresh check of the Tonto National Forest alerts page today confirms no fire restriction order is in effect; Fire Danger remains rated Low and no closure is listed for the Superstition Wilderness, Peralta Trail, or Fremont Saddle. The forest's current closures are all at unrelated sites (Telegraph Line Trail, Rattlesnake Cove, Water Wheel, Needle Rock, Box Bar, SRP Investigative Quarry roads, Riverside Campground, Canyon Lake drawdown, and others), none of which affect this trailhead (Source: Tonto National Forest). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr).",
-      "lastChecked": "2026-11-20"
+      "note": "A fresh check of the Tonto National Forest alerts page today confirms no fire restriction order is in effect; Fire Danger remains rated Low and no closure is listed for the Superstition Wilderness, Peralta Trail, or Fremont Saddle. The forest's current closures are all at unrelated sites (seasonal eagle closures effective December 1, Telegraph Line Trail and NFST 1069, Rattlesnake Cove, Needle Rock, and Box Bar), none of which affect this trailhead (Source: Tonto National Forest). No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr).",
+      "lastChecked": "2026-11-21"
     },
     "flatiron-siphon-draw": {
-      "status": "open",
-      "note": "The Arizona State Parks site for Lost Dutchman State Park could not be reached on a fresh check today (site returned an access error), so its own page is unconfirmed; the park's previously noted standing construction-detour notice (signed reroutes, hours 5am to 7pm) remains unverified and may be a general standing notice rather than an active closure. Tonto National Forest's alerts page, checked directly today, confirms no fire restrictions are in effect, with Fire Danger rated Low and no closure listed near the Superstition Wilderness or this trailhead (Source: Tonto National Forest). As a standing safety policy, walk-in entry and hiker drop-off or pick-up are not permitted; vehicle entry with paid admission is required. Call the park directly at 480-982-4485 to confirm current conditions before visiting. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr).",
-      "lastChecked": "2026-11-20"
+      "status": "restricted",
+      "note": "Arizona State Parks' Lost Dutchman State Park page could not be confirmed as current today; search results return only a stale fire restriction banner dated May 3 through September 30, 2024, which has expired, and no live 2026 conditions page was reachable (Source: Arizona State Parks, access unconfirmed today). The park's standing safety policy prohibiting walk-in entry and hiker drop-off or pick-up has appeared consistently across sources but cannot be freshly verified. The Tonto National Forest, bordering the Superstition Wilderness access, shows Fire Danger Low with no fire restrictions in effect (Source: Tonto National Forest). Marked restricted out of caution until the park's own page can be confirmed live; call the park at 480-982-4485 before visiting.",
+      "lastChecked": "2026-11-21"
     },
     "fossil-springs": {
-      "status": "open",
-      "note": "The Fossil Creek Wild and Scenic River corridor remains in its non-permit season (October 2, 2026 through March 31, 2027, Forest Order #03-04-06-23-21), so a day-use permit is not currently required; no closure specific to Fossil Creek Trail or Fossil Springs was found on the Coconino National Forest's alerts page, checked directly again today (Source: Coconino National Forest). The Red Rock Ranger District's flood alert and three nearby flood-damage closures (Beaver Creek, Chavez Crossing, Cave Springs) listed today do not name Fossil Creek. Camping, campfires, and glass containers remain prohibited in the corridor year round. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Call the Fossil Creek hotline at 928-226-4611 for current road status, since Forest Road 708 can close during wet weather, and carry extra water.",
-      "lastChecked": "2026-11-20"
+      "status": "restricted",
+      "note": "The Fossil Creek Wild and Scenic River corridor remains in its non-permit season (October 2, 2026 through March 31, 2027, Forest Order #03-04-06-23-21), so a day use permit is not currently required. A new Fossil Creek Wild and Scenic River Motor Vehicle Closure took effect November 19, 2026 under Forest Order #03-04-06-26-06, temporarily restricting vehicle access on Forest Roads 502 and 708, the roads that reach the Fossil Springs trailhead (Source: Coconino National Forest). The trail itself carries no closure order, but with vehicle access restricted, status is changed to restricted until the vehicle closure is confirmed lifted. The Red Rock Ranger District's flood alert, active since November 2, 2026, also remains in effect. Call the Fossil Creek hotline at 928-226-4611 for current road status.",
+      "lastChecked": "2026-11-21"
     },
     "seven-falls-sabino": {
       "status": "open",
-      "note": "A direct check of the Coronado National Forest's official alerts page today confirms Fire Danger remains rated Moderate with no fire restrictions in effect, and the page names no closure for Seven Falls Trail or Sabino Canyon Recreation Area (Source: Coronado National Forest). The standing Sabino and Bear Canyon Closure Order #03-05-03-25-002, effective through January 21, 2028, continues to restrict camping, alcohol, and wheeled vehicles in the corridor as a conduct restriction, not a hiking closure. This trail has multiple unbridged creek crossings with a history of flash flood rescues, so turn back if water is flowing. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr).",
-      "lastChecked": "2026-11-20"
+      "note": "A direct check of the Coronado National Forest's official alerts page today confirms Fire Danger remains rated Moderate with no fire restrictions in effect, and the page names no closure for Seven Falls Trail or Sabino Canyon Recreation Area (Source: Coronado National Forest). The standing Sabino and Bear Canyon Closure Order #03-05-03-25-002, effective through January 21, 2028, restricts camping, alcohol, glass containers, and wheeled vehicles in the corridor; hiking is not a prohibited activity under the order. This trail has multiple unbridged creek crossings with a history of flash flood rescues, so turn back if water is flowing. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr).",
+      "lastChecked": "2026-11-21"
     },
     "romero-pools": {
       "status": "open",
       "note": "A direct check of the Coronado National Forest's official alerts page today confirms Fire Danger remains rated Moderate with no fire restrictions in effect, and the page names no closure for Romero Canyon Trail (Source: Coronado National Forest). This trail crosses a wash, so seasonal streamflow and flooding remain possible. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Call Arizona State Parks at 877-697-2757 to confirm conditions, especially after recent rain.",
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "finger-rock": {
       "status": "open",
-      "note": "A direct check of the Coronado National Forest's official alerts page today confirms Fire Danger remains rated Moderate with no fire restrictions in effect, and the page names no closure order for Finger Rock Trail or the surrounding area (Source: Coronado National Forest). Treat post-fire terrain from the 2026 Finger Ridge Fire as ongoing risk; avoid the drainage during and after any storm. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr).",
-      "lastChecked": "2026-11-20"
+      "note": "A direct check of the Coronado National Forest's official alerts page today confirms Fire Danger remains rated Moderate with no fire restrictions in effect, and the page names no closure order for Finger Rock Trail or the surrounding area (Source: Coronado National Forest). Treat post fire terrain from the 2026 Finger Ridge Fire as ongoing risk; avoid the drainage during and after any storm. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr).",
+      "lastChecked": "2026-11-21"
     },
     "tumamoc-hill": {
-      "status": "open",
-      "note": "No fresh official check was completed today; this entry still reflects the prior check finding no 2026 closure notice for Tumamoc Hill in available University of Arizona Desert Laboratory coverage, with standard public walking hours of 4am to 10pm daily and visitors required to stay on the paved road (Source: University of Arizona Desert Laboratory, secondary coverage, not a live official page). This trail follows a paved road with no creek or wash crossings. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Carry extra water.",
-      "lastChecked": "2026-11-20"
+      "status": "restricted",
+      "note": "A fresh check today could not confirm current access from a live official source; the University of Arizona Desert Laboratory's visit page returned an error and its news listing showed no closure notice or posted hours (Source: University of Arizona Desert Laboratory, access unconfirmed today). Historical public hours have been 4am to 10pm daily with visitors required to stay on the paved road, but this could not be reconfirmed as current. Marked restricted out of caution until an official source confirms current hours and access. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr).",
+      "lastChecked": "2026-11-21"
     },
     "wasson-peak": {
       "status": "open",
       "note": "Saguaro National Park's official conditions page, checked directly again today and still last updated September 9, 2026, confirms all roads, trails, picnic areas, and comfort stations in the Tucson Mountain District are open, with no fire, flood, or storm closure listed for Wasson Peak (Source: National Park Service). Golden Gate Road in the Tucson Mountain District remains permanently closed to vehicle traffic and converted to a multi-use trail, which does not affect this hiking route. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "valley-view-overlook": {
       "status": "open",
       "note": "Saguaro National Park's official conditions page, checked directly again today and still last updated September 9, 2026, confirms all roads, trails, picnic areas, and comfort stations in the Tucson Mountain District are open, with no closure listed for this trail (Source: National Park Service). Golden Gate Road in the Tucson Mountain District remains permanently closed to vehicle traffic, unrelated to this trail. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
-      "lastChecked": "2026-11-20"
+      "lastChecked": "2026-11-21"
     },
     "tanque-verde-ridge": {
       "status": "open",
-      "note": "Saguaro National Park's official conditions page, checked directly again today and still last updated September 9, 2026, confirms all roads, trails, picnic areas, and comfort stations in the Rincon Mountain District are open, with a standing caution that hikers should stay on trail in areas burned by two 2020 fires and watch for stump holes, rolling debris, and fallen trees (Source: National Park Service). Happy Valley Road, serving the Miller Creek and Turkey Creek trailheads, has stream crossings and the park recommends a high-clearance or 4WD vehicle; call the Rincon Mountain Visitor Center at 520-733-5153 for current road conditions. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
-      "lastChecked": "2026-11-20"
+      "note": "Saguaro National Park's official conditions page, checked directly again today and still last updated September 9, 2026, confirms all roads, trails, and picnic areas in the Rincon Mountain District are open (Source: National Park Service). A separate, unrelated Tanque Verde Falls Camping Closure order on Coronado National Forest land restricts camping at Tanque Verde Falls and does not affect this trail inside Saguaro National Park. Happy Valley Road, serving the Miller Creek and Turkey Creek trailheads, has stream crossings; call the Rincon Mountain Visitor Center at 520-733-5153 for current road conditions. No Excessive Heat Warning, Watch, or Advisory is active anywhere in Arizona today (Source: National Weather Service, weather.gov/psr). Hike before 7am or after 6pm and carry extra water.",
+      "lastChecked": "2026-11-21"
     },
     "south-kaibab-ooh-aah": {
       "status": "open",
-      "note": "Grand Canyon National Park's Key Hiking Messages, still last updated November 13, 2026 and checked directly today, confirm South Kaibab Trail remains open from the South Kaibab Trailhead to Black Bridge, which covers Ooh Aah Point and Cedar Ridge well within the open section (Source: National Park Service, Grand Canyon National Park). Black Bridge and Silver Bridge, which span the Colorado River, remain closed due to hazardous flash flood conditions with no estimated reopening at this time. Through hikes to Phantom Ranch or the North Rim are not possible. Call the Backcountry Information Center at 928-638-7875 to confirm current status before descending.",
-      "lastChecked": "2026-11-20"
+      "note": "Grand Canyon National Park's Key Hiking Messages, last updated November 13, 2026 and checked directly today, confirm South Kaibab Trail remains open from the South Kaibab Trailhead to Black Bridge, which covers Ooh Aah Point and Cedar Ridge well within the open section (Source: National Park Service, Grand Canyon National Park). Black Bridge and Silver Bridge, which span the Colorado River, remain closed due to hazardous flash flood conditions with no estimated reopening at this time. Through hikes to Phantom Ranch or the North Rim are not possible. Call the Backcountry Information Center at 928-638-7875 to confirm current status before descending.",
+      "lastChecked": "2026-11-21"
     },
     "bright-angel-indian-garden": {
       "status": "open",
-      "note": "Grand Canyon National Park's Key Hiking Messages, still last updated November 13, 2026 and checked directly today, confirm Bright Angel Trail remains open from the Bright Angel Trailhead to the River Resthouse, which covers Havasupai Gardens (formerly Indian Garden) well within the open section (Source: National Park Service, Grand Canyon National Park). Since November 18, 2026, expect 30 to 45 minute delays just above Three Mile Resthouse for rockfall mitigation work. Water is off at the Three Mile and Mile and a Half Resthouses and at Havasupai Gardens. Stock use is closed between Mile and a Half Resthouse and Havasupai Gardens. Beyond River Resthouse, Black Bridge and Silver Bridge remain closed with no estimated reopening, so Phantom Ranch stays inaccessible. Confirm current status with the Backcountry Information Center at 928-638-7875 before descending.",
-      "lastChecked": "2026-11-20"
+      "note": "Grand Canyon National Park's Key Hiking Messages, last updated November 13, 2026 and checked directly today, confirm Bright Angel Trail remains open from the Bright Angel Trailhead to the River Resthouse, which covers Havasupai Gardens (formerly Indian Garden) well within the open section (Source: National Park Service, Grand Canyon National Park). Since November 18, 2026, expect 30 to 45 minute delays just above Three Mile Resthouse for rockfall mitigation work. Water is off at the Three Mile and Mile and a Half Resthouses and at Havasupai Gardens. Stock use is closed between Mile and a Half Resthouse and Havasupai Gardens. Beyond River Resthouse, Black Bridge and Silver Bridge remain closed with no estimated reopening, so Phantom Ranch stays inaccessible. Confirm current status with the Backcountry Information Center at 928-638-7875 before descending.",
+      "lastChecked": "2026-11-21"
     },
     "rim-trail": {
       "status": "open",
-      "note": "Grand Canyon National Park's Key Hiking Messages, still last updated November 13, 2026 and checked directly today, list no trail closure for the South Rim Trail; the only South Rim items concern road and facility status, not trails (Source: National Park Service, Grand Canyon National Park). Use caution near the rim during any lightning or icy conditions.",
-      "lastChecked": "2026-11-20"
+      "note": "Grand Canyon National Park's Key Hiking Messages, last updated November 13, 2026 and checked directly today, list no trail closure for the South Rim Trail; the only South Rim items concern road and facility status, not trails (Source: National Park Service, Grand Canyon National Park). Use caution near the rim during any lightning or icy conditions.",
+      "lastChecked": "2026-11-21"
     },
     "north-kaibab-coconino": {
       "status": "closed",
-      "note": "Grand Canyon National Park's Key Hiking Messages, still last updated November 13, 2026 and reconfirmed directly today, show the entirety of North Kaibab Trail, from the North Kaibab Trailhead to Phantom Ranch including Cottonwood Campground, remains closed following significant flash flooding in Bright Angel Canyon on August 29, 2026, with no estimated reopening at this time (Source: National Park Service, Grand Canyon National Park). All of Phantom Ranch, including Bright Angel Campground, the Canteen, and the cabins, remains closed. Boat Beach is closed except for emergencies and brief scouting of a new rapid at the mouth of Bright Angel Creek.",
-      "lastChecked": "2026-11-20"
+      "note": "Grand Canyon National Park's Key Hiking Messages, last updated November 13, 2026 and reconfirmed directly today, show the entirety of North Kaibab Trail, from the North Kaibab Trailhead to Phantom Ranch including Cottonwood Campground, remains closed following significant flash flooding in Bright Angel Canyon on August 29, 2026, with no estimated reopening at this time (Source: National Park Service, Grand Canyon National Park). All of Phantom Ranch, including Bright Angel Campground, the Canteen, and the cabins, remains closed. Boat Beach is closed except for emergencies and brief scouting of a new rapid at the mouth of Bright Angel Creek.",
+      "lastChecked": "2026-11-21"
     }
   }
 }
