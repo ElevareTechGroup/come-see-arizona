@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-25",
+  "lastUpdated": "2026-11-26",
   "events": [
     {
       "id": "evt-20260918-2",
@@ -542,6 +542,23 @@
       "sourceUrl": "https://tempefestivalofthearts.com/info/festival-dates",
       "source": "manual",
       "imageKeyword": "street art fair",
+      "lat": null,
+      "lng": null
+    },
+    {
+      "id": "evt-20261125-1",
+      "title": "Fall Tempe Festival of the Arts",
+      "startDate": "2026-12-04",
+      "endDate": "2026-12-06",
+      "time": "10:00 AM - 5:00 PM Friday and Saturday, 10:00 AM - 4:00 PM Sunday",
+      "venueName": "Mill Avenue District",
+      "venueCity": "Tempe",
+      "venueAddress": "Mill Avenue, Downtown Tempe, AZ 85281",
+      "category": "Arts",
+      "description": "The 50th annual Fall Tempe Festival of the Arts fills Mill Avenue in Downtown Tempe with juried fine art and craft vendors, live music and food booths. The free, three day street festival is one of the longest running arts events in the Valley.",
+      "sourceUrl": "https://www.downtowntempe.com/do/50th-annual-fall-tempe-festival-of-the-arts",
+      "source": "manual",
+      "imageKeyword": "outdoor arts festival street booths",
       "lat": null,
       "lng": null
     },
@@ -1906,6 +1923,23 @@
       "lng": null
     },
     {
+      "id": "evt-20270210-tubac-festival-arts",
+      "title": "Tubac Festival of the Arts",
+      "startDate": "2027-02-10",
+      "endDate": "2027-02-14",
+      "time": "10:00 AM - 5:00 PM",
+      "venueName": "Tubac Historic Village",
+      "venueCity": "Tubac",
+      "venueAddress": "Tubac Historic Village, Tubac, AZ 85646",
+      "category": "Arts",
+      "description": "The 68th annual Tubac Festival of the Arts fills the historic art village with juried artists, craftspeople and live entertainment over five days. The festival benefits the Tubac Chamber of Commerce and is one of Arizona longest running outdoor art shows. Admission is free.",
+      "sourceUrl": "https://www.tubacaz.com/event-details/68th-annual-tubac-festival-of-the-arts",
+      "source": "manual",
+      "imageKeyword": "outdoor art festival desert village",
+      "lat": null,
+      "lng": null
+    },
+    {
       "id": "scottsdale-arabian-horse-show-2027-02-11",
       "title": "Scottsdale Arabian Horse Show",
       "startDate": "2027-02-11",
@@ -2242,23 +2276,6 @@
       "sourceUrl": "https://www.tucsonmariachi.org/",
       "source": "manual",
       "imageKeyword": "mariachi performance stage",
-      "lat": null,
-      "lng": null
-    },
-    {
-      "id": "evt-20261125-1",
-      "title": "Fall Tempe Festival of the Arts",
-      "startDate": "2026-12-04",
-      "endDate": "2026-12-06",
-      "time": "10:00 AM - 5:00 PM Friday and Saturday, 10:00 AM - 4:00 PM Sunday",
-      "venueName": "Mill Avenue District",
-      "venueCity": "Tempe",
-      "venueAddress": "Mill Avenue, Downtown Tempe, AZ 85281",
-      "category": "Arts",
-      "description": "The 50th annual Fall Tempe Festival of the Arts fills Mill Avenue in Downtown Tempe with juried fine art and craft vendors, live music and food booths. The free, three day street festival is one of the longest running arts events in the Valley.",
-      "sourceUrl": "https://www.downtowntempe.com/do/50th-annual-fall-tempe-festival-of-the-arts",
-      "source": "manual",
-      "imageKeyword": "outdoor arts festival street booths",
       "lat": null,
       "lng": null
     }
